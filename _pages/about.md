@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Community Jamboree
-permalink: /jamboree/
+permalink: /
 subtitle: #<a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
