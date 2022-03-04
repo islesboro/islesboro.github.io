@@ -1,12 +1,12 @@
 ---
-layout: about
+layout: page
 title: Community Jamboree
-permalink: /
+permalink: /jamboree/
 subtitle: #<a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: # prof_pic.jpg
   address: #>
 #    <p>555 your office number</p>
 #    <p>123 your address street</p>
@@ -16,6 +16,12 @@ news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
+
+Saturday, May 21, 2022
+10:30am - 2:30pm
+Islesboro Community Center
+
+<!-- Coming soon: Tell us what you would like to learn more about -->
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
