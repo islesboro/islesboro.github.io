@@ -1,6 +1,6 @@
 ---
 layout: page
-title: <span><span style="font-weight: 300;font-size: 2.0rem">Islesboro Community</span><br><span style="font-weight: 500;font-size: 2.5rem">Energy Jamboree</span></span>
+title: Community Jamboree
 permalink: /jamboree/
 description: #Materials for courses you taught. Replace this text with your description.
 nav: true
