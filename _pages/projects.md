@@ -3,10 +3,25 @@ layout: page
 title: Projects
 permalink: /projects/
 description: #A growing collection of your cool projects.
-nav: true
+# nav: true
 display_categories: #[work, fun]
 horizontal: false
 ---
+
+## Current
+- Town Lighting LED Upgrades
+- Solar Arrays
+  - Town Office Solar Array Panel
+  - School
+  - Private Residential Efforts
+- Energy Audits of Town Buildings
+- Winterization Projects
+
+## Prospective Projects
+- Solar arrays
+- Energy independence
+- Island transportation
+- Electric Car Charging Stations
 
 <!-- pages/projects.md -->
 <div class="projects">
