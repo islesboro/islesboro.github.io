@@ -1,7 +1,7 @@
 ---
 layout: page
 title: <div><div>Islesboro Community</div><br><strong>Energy Jamboree</strong></div>
-permalink: /
+permalink: /jamboree/
 subtitle: #<a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
