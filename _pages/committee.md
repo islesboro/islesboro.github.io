@@ -3,6 +3,7 @@ layout: page
 permalink: /committee/
 title: Energy Committee
 description: #Materials for courses you taught. Replace this text with your description. s
+nav: true
 ---
 
 ## Mission Statement

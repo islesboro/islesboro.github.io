@@ -3,7 +3,7 @@ layout: page
 title: Community Jamboree
 permalink: /jamboree/
 description: #Materials for courses you taught. Replace this text with your description.
-# nav: true
+nav: true
 ---
 
 Saturday, May 21, 2022

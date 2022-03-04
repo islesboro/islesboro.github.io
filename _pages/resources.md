@@ -3,7 +3,7 @@ layout: page
 title: Resources
 permalink: /resources/
 description: #Materials for courses you taught. Replace this text with your description.
-# nav: true
+nav: true
 ---
 
 Coming soon
