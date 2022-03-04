@@ -8,7 +8,7 @@ display_categories: #[work, fun]
 horizontal: false
 ---
 
-## Current
+## Current Projects
 - Town Lighting LED Upgrades
 - Solar Arrays
   - Town Office Solar Array Panel
@@ -16,6 +16,7 @@ horizontal: false
   - Private Residential Efforts
 - Energy Audits of Town Buildings
 - Winterization Projects
+
 
 ## Prospective Projects
 - Solar arrays

@@ -5,9 +5,9 @@ permalink: /
 subtitle: #<a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
-  align: right
-  image: # prof_pic.jpg
-  address: #>
+#  align: right
+#  image: # prof_pic.jpg
+#  address: #>
 #    <p>555 your office number</p>
 #    <p>123 your address street</p>
 #    <p>Your City, State 12345</p>
@@ -17,7 +17,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-<span><span style="font-weight: 300;font-size: 2.0rem">Islesboro Community</span><br><span style="font-weight: 500;font-size: 2.5rem">Energy Jamboree</span></span>
+<p style="font-weight: 300;font-size: 2.0rem">Islesboro Community</p><p style="font-weight: 500;font-size: 2.5rem">Energy Jamboree</p>
 
 Saturday, May 21, 2022
 
