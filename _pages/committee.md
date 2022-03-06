@@ -33,7 +33,7 @@ Josh Leach
 
 Melissa Burns (Ex Officio)
 
-### Non-Voting Members
+#### Non-Voting Members
 
 Jordy Watson
 

@@ -21,7 +21,7 @@ social: false  # includes social icons at the bottom of the page
 <div class="row justify-content-sm-center">
     <div class="col-sm-2 col-md-0"></div>
     <div class="col-sm-8 col-md-0">
-        {% include figure.html path="assets/img/jamboree_flyer_web.png" title="Jamboree flyer" class="img-fluid z-depth-1" %}
+        {% include figure.html path="assets/img/jamboree_flyer_web.png" title="Jamboree flyer" class="img-fluid" %}
     </div>
     <div class="col-sm-2 col-md-0"></div>
 </div>
