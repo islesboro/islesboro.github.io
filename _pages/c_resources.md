@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Resources
+menu: Resources
 permalink: /resources/
 description: #Materials for courses you taught. Replace this text with your description.
 nav: true

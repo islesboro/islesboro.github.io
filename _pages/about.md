@@ -17,15 +17,20 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-<p style="font-weight: 300;font-size: 2.0rem">Islesboro Community</p><p style="font-weight: 500;font-size: 2.5rem">Energy Jamboree</p>
+{% raw %}
+```html
+<div class="row justify-content-sm-center">
+    <div class="col-sm-2 col-md-0"></div>
+    <div class="col-sm-8 col-md-0">
+        {% include figure.html path="assets/img/jamboree_flyer_web.png" title="Jamboree flyer" class="img-fluid z-depth-1" %}
+    </div>
+    <div class="col-sm-2 col-md-0"></div>
+</div>
+```
+{% endraw %}
 
-Saturday, May 21, 2022
-
-10:30am - 2:30pm
-
-Islesboro Community Center
-
-<!-- Coming soon: Tell us what you would like to learn more about -->
+<!-- <span style="font-weight: 300;font-size: 2.0rem">Islesboro Community</span>
+<span style="font-weight: 500;font-size: 2.5rem">Energy Jamboree</span> -->
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
