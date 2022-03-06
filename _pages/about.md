@@ -28,10 +28,10 @@ social: false  # includes social icons at the bottom of the page
 
 <div class="row justify-content-sm-center" style="margin-top: 20px">
     <div class="col-sm-2 col-md-0"></div>
-    <div class="col-sm-8 col-md-0" style="border-radius: 25px; background: #046ca5; padding: 5px">
-      <a href="https://forms.gle/MXj4Cdsj8strL2J26" style="decoration: none">
-          <span style="font-weight: 500;font-size: 2.0rem;color: #FFFFFF; letter-spacing: 3px; text-align: center; line-height: 2.1rem;">PLEASE TAKE OUR SURVEY</span>
-          <span style="font-weight: 300;font-size: 0.9rem;color: #FFFFFF; letter-spacing: 2px; text-align: center; line-height: 1.0rem;>TO SHARE YOUR THOUGHTS ABOUT HOME ENERGY ISSUES & WHAT TO INCLUDE IN THE JAMBOREE</span>
+    <div class="col-sm-8 col-md-0" style="border-radius: 25px; background: #046ca5; margin: 10px; padding: 5px">
+      <a href="https://forms.gle/MXj4Cdsj8strL2J26" style="text-decoration: none">
+          <span style="font-weight: 500;font-size: 1.8rem;color: #FFFFFF; letter-spacing: 3px; text-align: center; line-height: 1.9rem; text-decoration: none">PLEASE TAKE OUR SURVEY</span>
+          <span style="font-weight: 300;font-size: 0.9rem;color: #FFFFFF; letter-spacing: 2px; text-align: center; line-height: 1.0rem; text-decoration: none">TO SHARE YOUR THOUGHTS ABOUT HOME ENERGY ISSUES & WHAT TO INCLUDE IN THE JAMBOREE</span>
           <img src="assets/img/right_arrow.png" style="margin-left: auto; margin-right: auto" />
       </a>
     </div>
