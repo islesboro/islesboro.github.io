@@ -26,6 +26,23 @@ social: false  # includes social icons at the bottom of the page
     <div class="col-sm-2 col-md-0"></div>
 </div>
 
+<div class="row justify-content-sm-center">
+    <div class="col-sm-2 col-md-0"></div>
+    <div class="col-sm-8 col-md-0">
+      <a class="dropdown-item" href="https://forms.gle/MXj4Cdsj8strL2J26">
+        <div class="col-0" style="border-radius: 25px; background: {$blue-color}">
+          <div class="col-10">
+              <span style="font-weight: 500;font-size: 2.0rem;color: {$white-color}">Take our survey</span>
+              <span style="font-weight: 500;font-size: 1.2rem;color: {$white-color}">to share your thoughts about home energy issues & what would be helpful to see at the Jamboree</span>
+          </div>
+          <div class="col-2">
+            {% include figure.html path="assets/img/right-arrow.png" title="right arrow" class="img-fluid" %}
+          </div>
+        </div>
+      </a>
+    </div>
+    <div class="col-sm-2 col-md-0"></div>
+</div>
 
 <!-- <span style="font-weight: 300;font-size: 2.0rem">Islesboro Community</span>
 <span style="font-weight: 500;font-size: 2.5rem">Energy Jamboree</span> -->
