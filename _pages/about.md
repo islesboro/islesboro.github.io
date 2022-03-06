@@ -22,12 +22,12 @@ social: false  # includes social icons at the bottom of the page
     <div class="col-sm-2 col-md-0"></div>
     <div class="col-sm-8 col-md-0">
         {% include figure.html path="assets/img/jamboree_flyer_web.png" title="Jamboree flyer" class="img-fluid" %}
-        <div style="margin-top: 20px">
+        <div style="margin-top: 30px">
           <a href="https://forms.gle/MXj4Cdsj8strL2J26" style="text-decoration: none">
             {% include figure.html path="assets/img/jamboree_survey_web.png" title="Jamboree flyer" class="img-fluid" %}
           </a>
-          <div style="height: 20px" />
-          <a href="https://forms.gle/MXj4Cdsj8strL2J26" style="text-decoration: none">
+          <div style="height: 10px" />
+          <a href="jamboree/" style="text-decoration: none">
             {% include figure.html path="assets/img/jamboree_button_web.png" title="Jamboree flyer" class="img-fluid" %}
           </a>
         </div>

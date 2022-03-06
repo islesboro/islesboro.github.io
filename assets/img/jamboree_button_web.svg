@@ -25,15 +25,15 @@
      inkscape:pagecheckerboard="0"
      showgrid="false"
      height="330.5px"
-     inkscape:zoom="0.31086964"
-     inkscape:cx="910.34943"
-     inkscape:cy="12.86713"
+     inkscape:zoom="0.21981803"
+     inkscape:cx="1123.6567"
+     inkscape:cy="705.12869"
      inkscape:window-width="1331"
      inkscape:window-height="812"
-     inkscape:window-x="1"
-     inkscape:window-y="0"
+     inkscape:window-x="43"
+     inkscape:window-y="24"
      inkscape:window-maximized="0"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer1"
      width="1400px"
      scale-x="0.23"
      fit-margin-top="0"
@@ -42,6 +42,23 @@
      fit-margin-bottom="0" />
   <defs
      id="defs30">
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect14582"
+       is_visible="true"
+       lpeversion="1"
+       satellites_param="F,0,0,1,0,20,0,1 @ F,0,0,1,0,20,0,1 @ F,0,0,1,0,20,0,1 @ F,0,0,1,0,20,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="20"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
     <inkscape:path-effect
        effect="fillet_chamfer"
        id="path-effect3427"
@@ -144,15 +161,14 @@
      inkscape:label="Layer 1"
      style="display:inline">
     <path
-       style="fill:#147f32;fill-opacity:1;stroke:none;stroke-width:1.69411;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
-       id="rect3345"
-       width="300.68335"
-       height="88.152374"
-       x="0.034866866"
-       y="0.31541216"
-       inkscape:path-effect="#path-effect3427"
-       sodipodi:type="rect"
-       d="M 20.034867,0.31541216 H 280.71822 a 20,20 45 0 1 20,19.99999984 v 48.152374 a 20,20 135 0 1 -20,20 H 20.034867 a 20,20 45 0 1 -20.00000013,-20 V 20.315412 A 20,20 135 0 1 20.034867,0.31541216 Z" />
+       style="display:inline;fill:#147f32;fill-opacity:1;stroke:none;stroke-width:1.69411;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+       id="rect3345-1"
+       width="300.15002"
+       height="87.630005"
+       x="0.0011403249"
+       y="-0.0018732316"
+       inkscape:path-effect="#path-effect14582"
+       sodipodi:type="rect" />
   </g>
   <g
      inkscape:groupmode="layer"

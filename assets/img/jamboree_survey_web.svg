@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   width="1307.3188"
-   viewBox="0 0 300.68334 88.152375"
-   height="383.27118"
+   width="1307"
+   viewBox="0 0 300.61001 87.860004"
+   height="382"
    version="1.0"
    id="svg2976"
    sodipodi:docname="jamboree_survey_web.svg"
@@ -25,15 +25,15 @@
      inkscape:pagecheckerboard="0"
      showgrid="false"
      height="330.5px"
-     inkscape:zoom="0.31086964"
-     inkscape:cx="910.34943"
-     inkscape:cy="12.86713"
+     inkscape:zoom="0.25"
+     inkscape:cx="306"
+     inkscape:cy="324"
      inkscape:window-width="1331"
      inkscape:window-height="812"
      inkscape:window-x="1"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer1"
      width="1400px"
      scale-x="0.23"
      fit-margin-top="0"
@@ -146,13 +146,13 @@
     <path
        style="fill:#26598f;fill-opacity:0.996078;stroke:none;stroke-width:1.69411;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
        id="rect3345"
-       width="300.68335"
-       height="88.152374"
-       x="0.034866866"
-       y="0.31541216"
+       width="300.15002"
+       height="87.630005"
+       x="0.0011403249"
+       y="-0.0018732316"
        inkscape:path-effect="#path-effect3427"
        sodipodi:type="rect"
-       d="M 20.034867,0.31541216 H 280.71822 a 20,20 45 0 1 20,19.99999984 v 48.152374 a 20,20 135 0 1 -20,20 H 20.034867 a 20,20 45 0 1 -20.00000013,-20 V 20.315412 A 20,20 135 0 1 20.034867,0.31541216 Z" />
+       d="m 20.00114,-0.00187323 h 260.15002 a 20,20 45 0 1 20,20.00000023 v 47.630005 a 20,20 135 0 1 -20,20 H 20.00114 a 20,20 45 0 1 -19.99999968,-20 V 19.998127 A 20,20 135 0 1 20.00114,-0.00187323 Z" />
   </g>
   <g
      inkscape:groupmode="layer"
