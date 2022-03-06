@@ -31,8 +31,8 @@ social: false  # includes social icons at the bottom of the page
     <div class="col-sm-8 col-md-0" style="border-radius: 25px; background: #046ca5">
       <a href="https://forms.gle/MXj4Cdsj8strL2J26">
           <div class="col-0" style="align: center">
-              <p style="font-weight: 500;font-size: 2.0rem;color: #FFFFFF; letter-spacing: 2px;">PLEASE TAKE OUR SURVEY</p>
-              <p style="font-weight: 300;font-size: 1.0rem;color: #FFFFFF; letter-spacing: 2px;">TO SHARE YOUR THOUGHTS ABOUT HOME ENERGY ISSUES & WHAT TO INCLUDE IN THE JAMBOREE</p>
+              <p style="font-weight: 500;font-size: 2.0rem;color: #FFFFFF; letter-spacing: 3px; text-align: center">PLEASE TAKE OUR SURVEY</p>
+              <p style="font-weight: 300;font-size: 1.0rem;color: #FFFFFF; letter-spacing: 2px; text-align: center">TO SHARE YOUR THOUGHTS ABOUT HOME ENERGY ISSUES & WHAT TO INCLUDE IN THE JAMBOREE</p>
               {% include figure.html path="assets/img/right-arrow.png" title="right arrow" class="img-fluid" %}
           </div>
       </a>
