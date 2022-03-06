@@ -3,6 +3,7 @@ layout: page
 title: Islesboro Community Energy Jamboree
 menu: Jamboree
 permalink: /jamboree/
+order: b
 description: #Materials for courses you taught. Replace this text with your description.
 nav: true
 ---

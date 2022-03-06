@@ -3,6 +3,7 @@ layout: page
 permalink: /committee/
 title: Energy Committee
 menu: Committee
+order: e
 description: #Materials for courses you taught. Replace this text with your description. s
 nav: true
 ---

@@ -3,6 +3,7 @@ layout: page
 title: Energy Committee Projects
 permalink: /projects/
 menu: Projects
+order: d
 description: #A growing collection of your cool projects.
 display_categories: #[work, fun]
 horizontal: false

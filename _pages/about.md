@@ -2,6 +2,7 @@
 layout: about
 title: about
 permalink: /
+order: a
 subtitle: #<a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
@@ -17,8 +18,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-{% raw %}
-```html
 <div class="row justify-content-sm-center">
     <div class="col-sm-2 col-md-0"></div>
     <div class="col-sm-8 col-md-0">
@@ -26,8 +25,7 @@ social: false  # includes social icons at the bottom of the page
     </div>
     <div class="col-sm-2 col-md-0"></div>
 </div>
-```
-{% endraw %}
+
 
 <!-- <span style="font-weight: 300;font-size: 2.0rem">Islesboro Community</span>
 <span style="font-weight: 500;font-size: 2.5rem">Energy Jamboree</span> -->
