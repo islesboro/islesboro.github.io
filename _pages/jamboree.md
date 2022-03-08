@@ -8,9 +8,11 @@ description: #Materials for courses you taught. Replace this text with your desc
 nav: true
 ---
 
+Please check back soon for the Jamboree schedule & to sign up for electric car and e-bike rides
+
 Saturday, May 21, 2022
 
-10:30am - 2:30pm
+10:30am - 3:00pm
 
 Islesboro Community Center
 
