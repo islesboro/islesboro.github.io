@@ -33,7 +33,10 @@ social: false  # includes social icons at the bottom of the page
           {% include figure.html path="assets/img/jamboree_button_fb_horiz_web.png" title="Jamboree flyer" class="img-fluid" %}
         </a>
         <div style="height: 20px" />
-
+        <a href="mailto:jamboree@islesboroenergy.org?subject=Website" style="text-decoration: none">
+          {% include figure.html path="assets/img/jamboree_button_email_horiz_web.png" title="Jamboree flyer" class="img-fluid" %}
+        </a>
+        <div style="height: 20px" />
     </div>
     <div class="col-sm-2 col-md-0"></div>
 </div>
