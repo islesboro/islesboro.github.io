@@ -22,19 +22,19 @@ social: false  # includes social icons at the bottom of the page
     <div class="col-sm-2 col-md-0"></div>
     <div class="col-sm-8 col-md-0">
         <a href="jamboree/" style="text-decoration: none">
-          {% include figure.html path="assets/img/jamboree_flyer_web.svg" title="Jamboree flyer" class="img-fluid" %}
+          <img src="assets/img/jamboree_flyer_web.svg" alt="Jamboree flyer" class="img-fluid-svg" />
         </a>
-        <div style="height: 30px" />
+        <div style="height: 20px" />
         <a href="https://forms.gle/MXj4Cdsj8strL2J26" style="text-decoration: none">
-          {% include figure.html path="assets/img/jamboree_survey_web.svg" title="Jamboree flyer" class="img-fluid" %}
+          <img src="assets/img/jamboree_survey_web.svg" alt="Jamboree flyer" class="img-fluid-svg" />
         </a>
-        <div style="height: 10px" />
+        <div style="height: 20px" />
         <a href="https://fb.me/e/2PAxxLDHL" style="text-decoration: none">
-          {% include figure.html path="assets/img/jamboree_button_fb_horiz_web.png" title="Jamboree flyer" class="img-fluid" %}
+          <img src="assets/img/jamboree_button_fb_horiz_web.png" alt="Jamboree flyer" class="img-fluid-svg" />
         </a>
         <div style="height: 20px" />
         <a href="mailto:jamboree@islesboroenergy.org?subject=Website" style="text-decoration: none">
-          {% include figure.html path="assets/img/jamboree_button_email_horiz_web.png" title="Jamboree flyer" class="img-fluid" %}
+          <img src="assets/img/jamboree_button_email_horiz_web.png" alt="Jamboree flyer" class="img-fluid-svg" />
         </a>
         <div style="height: 20px" />
     </div>
