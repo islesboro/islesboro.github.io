@@ -15,7 +15,7 @@ To explore ideas and develop proposals to present to the Select Board of the Tow
 
 ## Members
 
-Myra Sinnott (Chair)
+Myra Sinnott (Interim Chair)
 
 Bill Thomas (Vice Chair)
 
