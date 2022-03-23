@@ -21,12 +21,12 @@ social: false  # includes social icons at the bottom of the page
 <div class="row justify-content-sm-center">
     <div class="col-sm-2 col-md-0"></div>
     <div class="col-sm-8 col-md-0">
+      <a href="https://forms.gle/MXj4Cdsj8strL2J26" style="text-decoration: none">
+        <img src="assets/img/jamboree_survey_web.svg" alt="Home Energy and Jamboree Survey" class="img-fluid-svg" />
+      </a>
+      <div style="height: 20px" />
         <a href="jamboree/" style="text-decoration: none">
           <img src="assets/img/jamboree_flyer_web.svg" alt="Jamboree flyer" class="img-fluid-svg" />
-        </a>
-        <div style="height: 20px" />
-        <a href="https://forms.gle/MXj4Cdsj8strL2J26" style="text-decoration: none">
-          <img src="assets/img/jamboree_survey_web.svg" alt="Jamboree flyer" class="img-fluid-svg" />
         </a>
         <div style="height: 20px" />
         <a href="https://fb.me/e/2PAxxLDHL" style="text-decoration: none">
