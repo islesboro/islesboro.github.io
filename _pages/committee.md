@@ -27,15 +27,17 @@ Toby Martin
 
 Dick DeGrasse
 
+Jordy Watson
+
 J. Cressica Brazier
 
 Josh Leach
 
 Melissa Burns (Ex Officio)
 
-#### Non-Voting Members
 
-Jordy Watson
+
+#### Non-Voting Members
 
 Scott Sienkiewicz
 

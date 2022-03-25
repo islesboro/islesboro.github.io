@@ -35,7 +35,7 @@ The Energy Jamboree is also the first public event that will provide input for t
 We want to hear about the challenges you and your family have faced with all things energy-related: Have you thought about what you’ll do when it’s time to replace your furnace, water heater, stove, or car? We welcome your ideas for what you would like to see and get from the event via our survey:
 
 <a href="https://forms.gle/MXj4Cdsj8strL2J26" style="text-decoration: none">
-  <img src="assets/img/jamboree_survey_web.svg" alt="Jamboree flyer" class="img-fluid-svg" />
+  <img src="{{ site.url }}/assets/img/jamboree_survey_web.svg" alt="Jamboree flyer" class="img-fluid-svg" />
 </a>
 
 <!-- Coming soon: Tell us what you would like to learn more about -->
