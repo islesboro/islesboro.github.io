@@ -41,7 +41,7 @@ Please check back soon to sign up for electric car and e-bike rides.
       </td>
 		</tr>
 		<tr>
-			<td class="c1" colspan="1" rowspan="1"><span class="cTime">11</span></td>
+			<td class="c1" colspan="1" rowspan="1"><span class="cTime">11:00</span></td>
 			<td class="cWhite" colspan="1" rowspan="1"> </td>
 
 
@@ -62,7 +62,7 @@ Please check back soon to sign up for electric car and e-bike rides.
       </td>
 		</tr>
 		<tr>
-			<td class="c1" colspan="1" rowspan="1"><span class="cTime">12</span></td>
+			<td class="c1" colspan="1" rowspan="1"><span class="cTime">12:00</span></td>
 			<td class="cWhite" colspan="1" rowspan="1"><span class="c5">Lunch break</span></td>
 			<td class="cWhite" colspan="1" rowspan="1"> </td>
 			<td class="cWhite" colspan="1" rowspan="1"> </td>
