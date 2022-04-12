@@ -11,7 +11,7 @@ nav: true
 ## Mission Statement
 To explore ideas and develop proposals to present to the Select Board of the Town of Islesboro relating to the best options that address the energy needs of the Town.  The ideas and proposals will be made available to support efforts toward sustainability among the entire island community.
 
-
+<br />
 
 ## Members
 
@@ -35,7 +35,7 @@ Josh Leach
 
 Melissa Burns (Ex Officio)
 
-
+<br />
 
 #### Non-Voting Members
 
@@ -44,3 +44,5 @@ Scott Sienkiewicz
 Anne McKee (Island Fellow)
 
 Julian Kelly (ICS Student)
+
+<br />

@@ -59,3 +59,36 @@ img.img-menu-svg {
 *****************************************************************************/
 
 // TODO: redefine projects layout.
+
+/*****************************************************************************
+* Jamboree
+*****************************************************************************/
+
+.jth td {
+  border-style:solid;
+  padding:3pt 3pt 3pt 3pt;
+  border-color:#FFFFFF;
+  border-width:3pt;
+  vertical-align:top;
+}
+
+.c1 {
+  font-weight:bold;
+  text-align:right;
+}
+.cBold { font-weight:bold; }
+.cTime { font-weight:bold; }
+.cBlue { background-color:#c9daf8; }
+.cPink { background-color:#f4cccc; }
+.cGray { background-color:#f3f3f3; }
+.cPurple { background-color:#d9d2e9; }
+.cGreen { background-color:#d9ead3; }
+.cOrange { background-color:#f9cb9c; }
+.cYellow { background-color:#fff2cc; }
+.cRed { background-color:#ea9999; }
+.cWhite { background-color:#ffffff; }
+/*
+x background-color:#fce5cd;
+x background-color:#ffff00;
+background-color:#fff2cc
+*/
