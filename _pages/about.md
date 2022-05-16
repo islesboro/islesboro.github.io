@@ -21,6 +21,11 @@ social: false  # includes social icons at the bottom of the page
 <div class="row justify-content-sm-center">
     <div class="col-sm-2 col-md-0"></div>
     <div class="col-sm-8 col-md-0">
+      <a href="https://forms.gle/sdhgGq9oNAGYJ6eZA" style="text-decoration: none">
+        <img src="{{ site.url }}/assets/img/jamboree_ev_ride_web.svg" alt="Jamboree EV rides signup" class="img-fluid-svg" />
+      </a>
+      <br />
+      <br />
       <a href="https://forms.gle/MXj4Cdsj8strL2J26" style="text-decoration: none">
         <img src="assets/img/jamboree_survey_web.svg" alt="Home Energy and Jamboree Survey" class="img-fluid-svg" />
       </a>
@@ -28,6 +33,12 @@ social: false  # includes social icons at the bottom of the page
         <a href="jamboree/" style="text-decoration: none">
           <img src="assets/img/jamboree_flyer_web.svg" alt="Jamboree flyer" class="img-fluid-svg" />
         </a>
+        <div style="height: 20px" />
+        <div style="width:100%;align-items:center;justify-content:center;display:flex">
+        	<div style="width:50%">
+        		  <img src="{{ site.url }}/assets/img/icc_logo_color_rev.jpg" alt="Jamboree flyer" class="img-fluid-svg" />
+        	</div>
+        </div>
         <div style="height: 20px" />
         <a href="https://fb.me/e/2PAxxLDHL" style="text-decoration: none">
           <img src="assets/img/jamboree_button_fb_horiz_web.png" alt="Jamboree flyer" class="img-fluid-svg" />
