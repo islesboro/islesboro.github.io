@@ -37,20 +37,30 @@ Islesboro Community Center - Rain or Shine
         <span class="c5">EV (by appointment) &amp; E-bike test rides</span>
       </td>
       <td class="cPink" colspan="1" rowspan="9">
-        <span class="cBold">Exhibitors of home heating &amp; energy services </span>
+        <span class="cBold">Exhibitors of home heating, energy services, & community energy planning </span>
 				<ul style="list-style-position: outside;margin: 10;padding: 10;">
 					<li><a href="https://www.efficiencymaine.com/">Efficiency Maine</a> (Energy programs & rebates)</li>
 				  <li><a href="https://www.revisionenergy.com/">ReVision Energy</a> (Heat pumps, home solar, Community Solar)</li>
-				  <li><a href="https://sundog.solar/">SunDog Solar</a> (Heat pumps, home solar, batteries)</li>
 				  <li><a href="https://www.evergreenyourhome.com/">Evergreen</a> (Home energy assessment, insulation)</li>
-				  <li><a href="https://sprayfoaminsulationmaine.com/">Quantum</a> (Insulation)</li>
 					<li><a href="https://windowdressers.org/">Window Dressers</a> (Window inserts)</li>
 				  <li><a href="https://www.un-grid.me/">UN-GRID</a> (Home battery storage)</li>
 				  <li><a href="https://mainecommunitysolar.org/">Maine Community Solar</a></li>
+					<li><a href="https://www.aclimatetothrive.org/">A Climate to Thrive (Community solar and energy initiatives)</a></li>
+					<li><a href="https://www.energy.gov/eere/energy-transitions-initiative-partnership-project-communities">Energy Transitions Initiative Partnership Project Team (Energy efficiency and reliability planning for Islesboro)</a></li>
 				</ul>
       </td>
 			<td class="cGreen" colspan="1" rowspan="9">
-        <span class="c5">ICS Sustainability Classes exhibition &amp; door prizes</span>
+        <span class="c5">ICS Sustainability Classes exhibition</span>
+				<ul style="list-style-position: outside;margin: 10;padding: 10;">
+					<li>E-bikes</li>
+					<li>Eco-wave power</li>
+					<li>Algae and seaweed building materials</li>
+					<li>Community compost</li>
+					<li>Pendleton Yacht Yard's energy projects</li>
+					<li>Marine sustainable technology</li>
+					<li>Green buildings</li>
+					<li>And many more!</li>						
+				</ul>
       </td>
 			<td class="cBlue" colspan="1" rowspan="9">
         <span class="c5">Activities for Kids: Energy scavenger hunt &amp; chaperone at ICC Playground</span>
