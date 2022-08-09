@@ -19,12 +19,15 @@ nav: true
 - Energy Audits of Town Buildings
 - Winterization Projects
 
+<br />
 
 ## Prospective Projects
 - Solar arrays
 - Energy independence
 - Island transportation
 - Electric Car Charging Stations
+
+<br />
 
 <!-- pages/projects.md -->
 <div class="projects">
@@ -52,8 +55,24 @@ nav: true
   {%- endif -%}
   {% endfor %}
 
-{%- else if site.enable_projects -%}
+{%- else -%}
 <!-- Display projects without categories -->
-
+  {%- assign sorted_projects = site.projects | sort: "importance" -%}
+  <!-- Generate cards for each project -->
+  {% if page.horizontal -%}
+  <div class="container">
+    <div class="row row-cols-2">
+    {%- for project in sorted_projects -%}
+      {% include projects_horizontal.html %}
+    {%- endfor %}
+    </div>
+  </div>
+  {%- else -%}
+  <div class="grid">
+    {%- for project in sorted_projects -%}
+      {% include projects.html %}
+    {%- endfor %}
+  </div>
+  {%- endif -%}
 {%- endif -%}
 </div>

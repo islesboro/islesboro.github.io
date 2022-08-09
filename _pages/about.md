@@ -18,39 +18,84 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-2 col-md-0"></div>
-    <div class="col-sm-8 col-md-0">
-      <a href="https://forms.gle/sdhgGq9oNAGYJ6eZA" style="text-decoration: none">
-        <img src="{{ site.url }}/assets/img/jamboree_ev_ride_web.svg" alt="Jamboree EV rides signup" class="img-fluid-svg" />
-      </a>
-      <br />
-      <br />
-      <a href="https://forms.gle/MXj4Cdsj8strL2J26" style="text-decoration: none">
-        <img src="assets/img/jamboree_survey_web.svg" alt="Home Energy and Jamboree Survey" class="img-fluid-svg" />
-      </a>
-      <div style="height: 20px" />
-        <a href="jamboree/" style="text-decoration: none">
-          <img src="assets/img/jamboree_flyer_web.svg" alt="Jamboree flyer" class="img-fluid-svg" />
-        </a>
-        <div style="height: 20px" />
-        <div style="width:100%;align-items:center;justify-content:center;display:flex">
-        	<div style="width:50%">
-        		  <img src="{{ site.url }}/assets/img/icc_logo_color_rev.jpg" alt="Jamboree flyer" class="img-fluid-svg" />
-        	</div>
-        </div>
-        <div style="height: 20px" />
-        <a href="https://fb.me/e/2PAxxLDHL" style="text-decoration: none">
-          <img src="assets/img/jamboree_button_fb_horiz_web.png" alt="Jamboree flyer" class="img-fluid-svg" />
-        </a>
-        <div style="height: 20px" />
-        <a href="mailto:jamboree@islesboroenergy.org?subject=Website" style="text-decoration: none">
-          <img src="assets/img/jamboree_button_email_horiz_web.png" alt="Jamboree flyer" class="img-fluid-svg" />
-        </a>
-        <div style="height: 20px" />
-    </div>
-    <div class="col-sm-2 col-md-0"></div>
+## News
+          
+<div class="news">
+  {% if site.news != blank -%} 
+  <div class="table-responsive">
+    <table class="table table-sm table-borderless">
+    {%- assign news = site.news | reverse -%} 
+    {% for item in news limit: site.news_limit %} 
+      <tr>
+        <th scope="row">{{ item.date | date: "%b %-d, %Y" }}</th>
+        <td>
+          {% if item.inline -%} 
+            {{ item.content | remove: '<p>' | remove: '</p>' | emojify }}
+          {%- else -%} 
+            <a class="news-title" href="{{ item.url | relative_url }}">{{ item.title }}</a>
+          {%- endif %} 
+        </td>
+      </tr>
+    {%- endfor %} 
+    </table>
+  </div>
+{%- else -%} 
+  <p>No news so far...</p>
+{%- endif %} 
 </div>
+
+<br />
+
+## Projects
+
+<!-- pages/projects.md -->
+<div class="projects">
+{%- if site.enable_project_categories and page.display_categories %}
+  <!-- Display categorized projects -->
+  {%- for category in page.display_categories %}
+  <h2 class="category">{{ category }}</h2>
+  {%- assign categorized_projects = site.projects | where: "category", category -%}
+  {%- assign sorted_projects = categorized_projects | sort: "importance" %}
+  <!-- Generate cards for each project -->
+  {% if page.horizontal -%}
+  <div class="container">
+    <div class="row row-cols-2">
+    {%- for project in sorted_projects -%}
+      {% include projects_horizontal.html %}
+    {%- endfor %}
+    </div>
+  </div>
+  {%- else -%}
+  <div class="grid">
+    {%- for project in sorted_projects -%}
+      {% include projects.html %}
+    {%- endfor %}
+  </div>
+  {%- endif -%}
+  {% endfor %}
+
+{%- else -%}
+<!-- Display projects without categories -->
+  {%- assign sorted_projects = site.projects | sort: "importance" -%}
+  <!-- Generate cards for each project -->
+  {% if page.horizontal -%}
+  <div class="container">
+    <div class="row row-cols-2">
+    {%- for project in sorted_projects -%}
+      {% include projects_horizontal.html %}
+    {%- endfor %}
+    </div>
+  </div>
+  {%- else -%}
+  <div class="grid">
+    {%- for project in sorted_projects -%}
+      {% include projects.html %}
+    {%- endfor %}
+  </div>
+  {%- endif -%}
+{%- endif -%}
+</div>
+
 
 <div class="row justify-content-sm-center">
   <hr width="100%" />
@@ -77,7 +122,7 @@ social: false  # includes social icons at the bottom of the page
           <form action="https://islesboroenergy.us14.list-manage.com/subscribe/post?u=07fbabaf1bf18f715f917a219&amp;id=f2f1418c65" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
             <div id="mc_embed_signup_scroll">
               <div style="height: 10px" />
-            	 <span id="mc_heading">SIGN UP FOR ENERGY JAMBOREE UPDATES</span>
+            	 <span id="mc_heading">SIGN UP FOR ISLESBORO ENERGY NEWS & UPDATES</span>
                <div style="height: 10px" />
                 <div class="mc-field-group">
                 	<label id="mc_label" for="mce-EMAIL">EMAIL ADDRESS</label>
@@ -105,11 +150,39 @@ social: false  # includes social icons at the bottom of the page
     <div class="col-sm-2 col-md-0"></div>
 
 </div>
-<!-- <span style="font-weight: 300;font-size: 2.0rem">Islesboro Community</span>
-<span style="font-weight: 500;font-size: 2.5rem">Energy Jamboree</span> -->
 
-<!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
+<!-- Energy Jamboree Banner section -->
+<!--div class="row justify-content-sm-center">
+    <div class="col-sm-2 col-md-0"></div>
+    <div class="col-sm-8 col-md-0">
+      <a href="https://forms.gle/sdhgGq9oNAGYJ6eZA" style="text-decoration: none">
+        <img src="{{ site.url }}/assets/img/jamboree_ev_ride_web.svg" alt="Jamboree EV rides signup" class="img-fluid-svg" />
+      </a>
+      <br />
+      <br />
+      <a href="https://forms.gle/MXj4Cdsj8strL2J26" style="text-decoration: none">
+        <img src="{{ site.url }}/assets/img/jamboree_survey_web.svg" alt="Home Energy and Jamboree Survey" class="img-fluid-svg" />
+      </a>
+      <div style="height: 20px" />
+        <a href="jamboree/" style="text-decoration: none">
+          <img src="{{ site.url }}/assets/img/jamboree_flyer_web.svg" alt="Jamboree flyer" class="img-fluid-svg" />
+        </a>
+        <div style="height: 20px" />
+        <div style="width:100%;align-items:center;justify-content:center;display:flex">
+        	<div style="width:50%">
+        		  <img src="{{ site.url }}/assets/img/icc_logo_color_rev.jpg" alt="Jamboree flyer" class="img-fluid-svg" />
+        	</div>
+        </div>
+        <div style="height: 20px" />
+        <a href="https://fb.me/e/2PAxxLDHL" style="text-decoration: none">
+          <img src="{{ site.url }}/assets/img/jamboree_button_fb_horiz_web.png" alt="Jamboree flyer" class="img-fluid-svg" />
+        </a>
+        <div style="height: 20px" />
+        <a href="mailto:jamboree@islesboroenergy.org?subject=Website" style="text-decoration: none">
+          <img src="{{ site.url }}/assets/img/jamboree_button_email_horiz_web.png" alt="Jamboree flyer" class="img-fluid-svg" />
+        </a>
+        <div style="height: 20px" />
+    </div>
+    <div class="col-sm-2 col-md-0"></div>
+</div-->
