@@ -18,9 +18,11 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-## Islesboro wins $100k DOE Rural Energy Prize and enters Round 2 Prize Competition
+## Islesboro wins $100k DOE Rural Energy Prize and enters Round 2 of Prize Competition
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSf2nU8atlCzXKtq-2Dm5ZkKY_w6o67fTHto5YTZYH-U1QaN5g/viewform?embedded=true" width="100%" height="2630" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<br />
+<br />
 
 ### Prize Plan introductory video
 
@@ -28,7 +30,6 @@ social: false  # includes social icons at the bottom of the page
 <br />
 <br />
 
-0962159313
 ## News
           
 <div class="news">
