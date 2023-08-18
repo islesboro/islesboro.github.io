@@ -124,17 +124,17 @@ blockquote {
 .navbar {
   box-shadow: none;
   border-bottom: 1px solid var(--global-divider-color);
-  background-color: var(--global-bg-color);
+  background-color: var(--global-bg-feature-color);
   opacity: 0.95;
 }
 .navbar .dropdown-menu {
   background-color: var(--global-bg-color);
   border: 1px solid var(--global-divider-color);
   a:not(.active) {
-    color: var(--global-text-color);
+    color: var(--global-footer-link-color);
   }
   a:hover {
-    color: var(--global-hover-color);
+    color: var(--global-hover-light-color);
   }
   .dropdown-divider {
     border-top: 1px solid var(--global-divider-color) !important;
@@ -154,20 +154,23 @@ blockquote {
     }
   }
   .navbar-brand {
-    color: var(--global-text-color);
+    span {
+      color: var(--global-footer-link-color);
+    }
+    color: var(--global-footer-link-color);
   }
   .navbar-nav .nav-item .nav-link {
-    color: var(--global-text-color);
+    color: var(--global-footer-link-color);
     &:hover {
-      color: var(--global-hover-color);
+      color: var(--global-hover-light-color);
     }
   }
   .navbar-nav .nav-item.active>.nav-link {
       background-color: inherit;
-      font-weight: bolder;
-      color: var(--global-theme-color);
+      font-weight: 700;
+      color: var(--global-hover-light-color);
       &:hover {
-        color: var(--global-hover-color);
+        color: var(--global-hover-light-color);
       }
   }
   .navbar-brand.social {
@@ -193,7 +196,7 @@ blockquote {
     display: block;
     width: 22px;
     height: 2px;
-    background-color: var(--global-text-color);
+    background-color: var(--global-footer-link-color);
     border-radius: 1px;
     margin-bottom: 4px;
     transition: all 0.2s;

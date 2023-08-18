@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /committee/
-title: Energy Committee
+title: Islesboro Energy Committee
 menu: Committee
 order: e
 description: #Materials for courses you taught. Replace this text with your description. s
