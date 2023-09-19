@@ -39,13 +39,10 @@ Monica Mullins
 Melissa Burns (Ex Officio)
     </div>
 </div>
-
-
-
-
 <br />
 
-
+<div class="row">
+    <div class="col-sm mt-2 mt-md-0">
 ## Current Projects
 - Community clean energy and energy efficiency planning for DOE Rural Energy Prize
 - Town Building energy upgrades
@@ -57,13 +54,14 @@ Melissa Burns (Ex Officio)
   - Town Office (46kW)
   - School (65kW)
   - Transfer Station Salt Shed Array (30kW)
-
-<br />
-
+    </div>
+    <div class="col-sm mt-2 mt-md-0">
 ## Prospective Projects
 - Cooperative solar arrays and other clean energy projects
 - Energy independence and microgrids
-- Island transportation
+- Building electrification of Town Office and Library
+    </div>
+</div>
 
 <br />
 

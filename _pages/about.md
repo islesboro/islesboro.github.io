@@ -21,7 +21,7 @@ With these funds, we will build our capacity to offer logistical support to Isle
       <div class="card-item card-yellow">
         <h2>We are hiring an Energy Coordinator!</h2>
         <p>Join us as a paid Coordinator for the Rural Energy Prize Team</p>
-        <a class="button card-yellow" href="https://drive.google.com/file/d/1bnNYPlJ1TiezYqzd5qbeb1LhMmXZgbCe/view?usp=sharing">See the Job Announcement <i class="fa-solid fa-circle-arrow-right"></i></a>
+        <a class="button card-yellow" href="https://drive.google.com/file/d/1bw59pjHjNwmfBO0mdrN46gggF3n9PfpY/view?usp=drive_link">See the Job Announcement <i class="fa-solid fa-circle-arrow-right"></i></a>
       </div>
     </div>
     <div class="col-sm mt-2 mt-md-0">
