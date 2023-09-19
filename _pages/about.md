@@ -3,34 +3,45 @@ layout: about
 title: about
 permalink: /
 order: a
-subtitle: #<a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
-
-profile:
-#  align: right
-#  image: # prof_pic.jpg
-#  address: #>
-#    <p>555 your office number</p>
-#    <p>123 your address street</p>
-#    <p>Your City, State 12345</p>
+subtitle: #x
 
 news: false  # includes a list of news items
-selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-## Islesboro wins $100k DOE Rural Energy Prize and enters Round 2 of Prize Competition
-
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSf2nU8atlCzXKtq-2Dm5ZkKY_w6o67fTHto5YTZYH-U1QaN5g/viewform?embedded=true" width="100%" height="2630" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+# Islesboro wins $100k DOE Rural Energy Prize and enters Round 2 of Prize Competition
 <br />
-<br />
+Islesboro won the U.S. Department of Energy's <a href="https://www.herox.com/rural-energy/teams">Energizing Rural Communities Prize!</a>
 
-### Prize Plan introductory video
-
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/852559307?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Islesboro Rural Energy Prize - Info Meeting"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-<br />
+With these funds, we will build our capacity to offer logistical support to Islesboro residents and organizations who want solar, insulation, heat pumps, and other energy upgrades. We will also be able to apply for additional funding to reduce the upfront cost of clean energy projects on the island. 
 <br />
 
-## News
+<div class="row card-intro">
+    <div class="col-sm mt-2 mt-md-0">
+      <div class="card-item card-yellow">
+        <h2>We are hiring an Energy Coordinator!</h2>
+        <p>Join us as a paid Coordinator for the Rural Energy Prize Team</p>
+        <a class="button card-yellow" href="https://drive.google.com/file/d/1bnNYPlJ1TiezYqzd5qbeb1LhMmXZgbCe/view?usp=sharing">See the Job Announcement <i class="fa-solid fa-circle-arrow-right"></i></a>
+      </div>
+    </div>
+    <div class="col-sm mt-2 mt-md-0">
+      <div class="card-item card-blue">
+        <h2>Calling all Islesboro residents and friends:</h2>
+        <p>Tell us what energy-related ideas you have for the island and your homes</p>
+            <a class="button card-yellow" href="https://forms.gle/ExXFmbJW7C8rVzrC9">Take our survey <i class="fa-solid fa-circle-arrow-right"></i></a>
+      </div>
+    </div>
+</div>
+
+<br />
+<div>
+    <h2>Watch the Islesboro Prize Plan introductory video:</h2>
+    <div style="padding: 5px" />
+    <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/852559307?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" style="position:absolute;top:0;left:0;width:100%;height:100%;border-radius:8px;" title="Islesboro Rural Energy Prize - Info Meeting"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+</div>
+<br />
+
+# News
           
 <div class="news">
   {% if site.news != blank -%} 

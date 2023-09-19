@@ -16,7 +16,15 @@
   --global-footer-link-color: #{$white-color};
   --global-distill-app-color: #{$grey-color};
   --global-divider-color: rgba(0,0,0,.1);
+  
   --global-card-bg-color: #{$white-color};
+  --global-card-bg-color-blue: #{$blue-color-light};
+  --global-card-bg-color-yellow: #{$yellow-color-light};
+  --global-card-bg-color-grey: #{$grey-color-light};
+
+  --global-card-button-color-blue: #{$blue-color};
+  --global-card-button-color-yellow: #{$yellow-color};
+  --global-card-button-color-grey: #{$grey-color};
 
   .fa-sun {
     display : none;

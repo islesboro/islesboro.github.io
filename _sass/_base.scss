@@ -8,6 +8,10 @@ p, h1, h2, h3, h4, h5, h6, em, div, li, span, strong {
   color: var(--global-text-color);
 }
 
+h1, h2 { font-weight: 700; }
+h1 { font-size: 2rem; }
+h2 { font-size: 1.5rem; }
+
 hr {
   border-top: 1px solid var(--global-divider-color);
 }
@@ -55,7 +59,7 @@ blockquote {
 
 .card {
   background-color: var(--global-card-bg-color);
-  
+
   img {
     width: 100%;
   }
@@ -72,7 +76,76 @@ blockquote {
       display: flex;
       align-items: center;
     }
+
   }
+}
+
+
+.card-intro {
+
+  // img {
+  //   width: 100%;
+  // }
+
+  .card-title {
+    color: var(--global-text-color);
+  }
+
+  .card-yellow {
+    background-color: var(--global-card-bg-color-yellow);
+
+    .button {
+      background-color: var(--global-card-button-color-yellow);
+    }
+  }
+
+  .card-blue {
+    background-color: var(--global-card-bg-color-blue);
+    .button {
+      background-color: var(--global-card-button-color-blue);
+    }
+  }
+
+  .card-grey {
+    background-color: var(--global-card-bg-color-grey);
+    .button {
+      background-color: var(--global-card-button-color-grey);
+    }
+  }
+
+  .card-item {
+    padding: 15px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    border-radius: 8px;
+
+    .row {
+      display: flex;
+      align-items: center;
+    }
+  }
+}
+
+.button {
+  color: var(--global-text-color);
+  border: none;
+  border-radius: 8px;
+  padding: 15px 20px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 1.2rem;
+  font-weight: bold;
+  display: inline-block;
+  margin: 4px 0px;
+  cursor: pointer;
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.4s;
+}
+
+.button:hover {
+  box-shadow: 5px 5px 5px rgba(0,0,0,0.15);
+  color: var(--global-text-color); 
+  text-decoration: none;
 }
 
 // Citation

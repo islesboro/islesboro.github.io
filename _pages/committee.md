@@ -4,36 +4,44 @@ permalink: /committee/
 title: Islesboro Energy Committee
 menu: Committee
 order: e
-description: #Materials for courses you taught. Replace this text with your description. s
+description: #x
 nav: true
 ---
 
 ## Mission Statement
-To explore ideas and develop proposals to present to the Select Board of the Town of Islesboro relating to the best options that address the energy needs of the Town.  The ideas and proposals will be made available to support efforts toward sustainability among the entire island community.
+To explore ideas and develop proposals to present to the Select Board of the Town of Islesboro relating to the best options that address the energy needs of the Town.  The ideas and proposals will be made available to support efforts toward sustainability across the entire island community.
 
 <br />
 
 ## Members
 
+<div class="row">
+    <div class="col-sm mt-2 mt-md-0">
 Myra Sinnott (Interim Chair)
-
+<br />
 Bill Thomas (Vice Chair)
-
+<br />
 Holly Fields
-
+<br />
 Toby Martin (Treasurer)
-
+<br />
 Dick DeGrasse
-
+    </div>
+    <div class="col-sm mt-2 mt-md-0">
 J. Cressica Brazier
-
+<br />
 Josh Leach
-
+<br />
 Harriet Bering
-
+<br />
 Monica Mullins
-
+<br />
 Melissa Burns (Ex Officio)
+    </div>
+</div>
+
+
+
 
 <br />
 
@@ -54,9 +62,8 @@ Melissa Burns (Ex Officio)
 
 ## Prospective Projects
 - Cooperative solar arrays and other clean energy projects
-- Energy independence
+- Energy independence and microgrids
 - Island transportation
-- Electric Vehicle Charging Stations
 
 <br />
 

@@ -3,7 +3,7 @@ layout: page
 title: Islesboro Community Energy Jamboree 2022
 menu: Jamboree
 permalink: /jamboree/
-order: b
+order: d
 description:
 nav: true
 ---
