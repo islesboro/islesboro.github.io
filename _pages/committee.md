@@ -21,18 +21,18 @@ Myra Sinnott (Interim Chair)
 <br />
 Bill Thomas (Vice Chair)
 <br />
-Holly Fields
+Harriet Bering
 <br />
-Toby Martin (Treasurer)
+J. Cressica Brazier
 <br />
 Dick DeGrasse
     </div>
     <div class="col-sm mt-2 mt-md-0">
-J. Cressica Brazier
+Holly Fields
 <br />
 Josh Leach
 <br />
-Harriet Bering
+Toby Martin
 <br />
 Monica Mullins
 <br />
@@ -43,23 +43,31 @@ Melissa Burns (Ex Officio)
 
 <div class="row">
     <div class="col-sm mt-2 mt-md-0">
-## Current Projects
-- Community clean energy and energy efficiency planning for DOE Rural Energy Prize
-- Town Building energy upgrades
-  - Energy Audits
-  - LED Lighting for Town Office and Library
-  - Insulation for Town Office and Library
-  - Electric Vehicle Charger at Town Office
-- Solar Arrays
-  - Town Office (46kW)
-  - School (65kW)
-  - Transfer Station Salt Shed Array (30kW)
+<h2>Current Projects</h2>
+<ul>
+  <li>Community clean energy and energy efficiency planning for DOE Rural Energy Prize</li>
+  <li>Town Building energy upgrades</li>
+  <ul>
+    <li>Energy Audits</li>
+    <li>LED Lighting for Town Office and Library</li>
+    <li>Insulation for Town Office and Library</li>
+    <li>Electric Vehicle Charger at Town Office</li>
+  </ul>
+  <li>Solar Arrays</li>
+  <ul>
+    <li>Town Office (46kW)</li>
+    <!--/li>  - School (65kW)</li-->
+    <li>Transfer Station Salt Shed Array (30kW)</li>
+  </ul>
+</ul>
     </div>
     <div class="col-sm mt-2 mt-md-0">
-## Prospective Projects
-- Cooperative solar arrays and other clean energy projects
-- Energy independence and microgrids
-- Building electrification of Town Office and Library
+<h2>Prospective Projects</h2>
+<ul>
+  <li>Cooperative solar arrays and other clean energy projects</li>
+  <li>Energy independence and microgrids</li>
+  <li>Building electrification of Town Office and Library</li>
+</ul>
     </div>
 </div>
 

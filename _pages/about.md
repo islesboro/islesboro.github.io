@@ -19,15 +19,15 @@ With these funds, we will build our capacity to offer logistical support to Isle
 <div class="row card-intro">
     <div class="col-sm mt-2 mt-md-0">
       <div class="card-item card-yellow">
-        <h2>We are hiring an Energy Coordinator!</h2>
-        <p>Join us as a paid Coordinator for the Rural Energy Prize Team</p>
-        <a class="button card-yellow" href="https://drive.google.com/file/d/1bw59pjHjNwmfBO0mdrN46gggF3n9PfpY/view?usp=drive_link">See the Job Announcement <i class="fa-solid fa-circle-arrow-right"></i></a>
+        <h2>Say Hello to Islesboro's Community Energy Coordinators!</h2>
+        <p>Ann Charlton and Kizzi Barton have joined the Energy Hub as Islesboro's first Coordinators</p>
+        <a class="button card-yellow" href="https://islesboroenergy.org/coordinators/">Meet the Coordinators <i class="fa-solid fa-circle-arrow-right"></i></a>
       </div>
     </div>
     <div class="col-sm mt-2 mt-md-0">
       <div class="card-item card-blue">
-        <h2>Calling all Islesboro residents and friends:</h2>
-        <p>Tell us what energy-related ideas you have for the island and your homes</p>
+        <h2>Residents and Friends: Tell us about your home energy needs</h2>
+        <p>Tell us what energy-related needs and ideas you have for the island and your homes</p>
             <a class="button card-yellow" href="https://forms.gle/ExXFmbJW7C8rVzrC9">Take our survey <i class="fa-solid fa-circle-arrow-right"></i></a>
       </div>
     </div>
