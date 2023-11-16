@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Community Energy Coordinators
-menu: Coordinators
-permalink: /coordinators/
+title: Contact Us
+menu: Contact Us
+permalink: /contact/
 order: b
 description:
 nav: true
