@@ -17,12 +17,12 @@ We will also plan how to connect Islesboro organizations and residents to guidan
 <div class="row">
     <div class="col-sm mt-2 mt-md-0">
         <h2>Kizzi Barton</h2>
-        <h3>Community Energy Coordinator</h3>
+        <h3>Community Outreach Lead</h3>
         kizzi@<!-- comment -->islesboro<!-- comment -->energy.org
     </div>
     <div class="col-sm mt-2 mt-md-0">
         <h2>Ann Charlton</h2>
-        <h3>Energy Projects & Planning Coordinator</h3>
+        <h3>Energy Projects Coordinator</h3>
         ann@<!-- comment -->islesboroenergy<!-- comment -->.org
         <br />
         <br />
