@@ -21,7 +21,7 @@ With these funds, we will build our capacity to offer logistical support to Isle
       <div class="card-item card-yellow">
         <h2>Say Hello to Islesboro's Community Energy Coordinator!</h2>
         <p>Kizzi Barton has joined the Rural Energy Prize team as Islesboro's first Coordinator</p>
-        <a class="button card-yellow" href="https://islesboroenergy.org/coordinators/">Meet the Coordinator <i class="fa-solid fa-circle-arrow-right"></i></a>
+        <a class="button card-yellow" href="https://islesboroenergy.org/coordinator/">Meet the Coordinator <i class="fa-solid fa-circle-arrow-right"></i></a>
       </div>
     </div>
     <div class="col-sm mt-2 mt-md-0">
