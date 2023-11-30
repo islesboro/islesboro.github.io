@@ -17,6 +17,16 @@ With these funds, we will build our capacity to offer logistical support to Isle
 <br />
 
 <div class="row card-intro">
+    <div class="col-sm mt-1 mt-md-0">
+      <div class="card-item card-yellow">
+        <a class="button card-yellow col-sm" href="https://forms.gle/y4oqnhghc7WWJ97bA">
+          <span class="buttonLarge">Sign up for a free Home Energy Assessment <i class="fa-solid fa-circle-arrow-right"></i></span>
+        </a>
+      </div>
+    </div>
+</div>
+
+<div class="row card-intro">
     <div class="col-sm mt-2 mt-md-0">
       <div class="card-item card-yellow">
         <h2>Say Hello to Islesboro's Community Energy Coordinator!</h2>

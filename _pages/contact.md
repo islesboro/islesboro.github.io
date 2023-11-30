@@ -8,13 +8,14 @@ description:
 nav: true
 ---
 
-Islesboro’s Community Energy Coordinator will work to understand community members’ needs and barriers to making home energy upgrades. 
-
-We will also plan how to connect Islesboro organizations and residents to guidance, home assessments, funding, and collective upgrades/purchases. 
-
-<br />
-<br />
 ## Kizzi Barton
-### Community Outreach Lead
-<span>kizzi@<!-- comment -->islesboro<!-- comment -->energy.org</span>
-<div style="height: 200px" />
+### Community Energy Coordinator
+<h3><span>kizzi@<!-- comment -->islesboro<!-- comment -->energy.org</span></h3>
+<br />
+
+## Islesboro Energy Committee
+<h3><span>info@<!-- comment -->islesboro<!-- comment -->energy.org</span></h3>
+<br />
+
+## <a href="https://www.facebook.com/profile.php?id=61553307492898">Islesboro Energy Hub on Facebook</a>
+<div style="height: 300px" />
