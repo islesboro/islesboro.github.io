@@ -9,11 +9,14 @@ news: false  # includes a list of news items
 social: true  # includes social icons at the bottom of the page
 ---
 <div class="row card-intro">
-    <div class="col-sm mt-1 mt-md-0">
-        <div class="button card-blue">
-          The Energy Hub is Islesboro’s guide to info, events, and support for home energy improvements and community energy initiatives
-        </div>
+  <div class="col-sm mt-1 mt-md-0">
+    <div class="card-item card-blue-dark">
+        <span class="subtitle">
+          The Energy Hub is Islesboro’s guide to info, events, and support for<br /> 
+          home energy improvements and community energy initiatives.
+        </span>
     </div>
+  </div>
 </div>
 <br />
 
@@ -38,6 +41,18 @@ social: true  # includes social icons at the bottom of the page
     <div style="padding: 20px" />
 </div>
 
+<div>
+    <h2>February 13th @ Town Office & Zoom: <br />Rural Energy Prize Progress & Plans</h2>
+    <div style="padding: 5px" />
+    <div>
+      <img width="100%" src="assets/img/240130_ERCP_WebsiteFlyer_PrizePresentation.jpg" />
+    </div>
+    <div style="padding: 10px" />
+    <p>
+        <a href="https://us06web.zoom.us/j/85801756712?pwd=DlpgpcM1MH3PY32SLf0ZDbKk2tP410.1">Zoom Link: Click Here</a> 
+    </p>
+    <div style="padding: 20px" />
+</div>
 
 
 <div class="row card-intro">

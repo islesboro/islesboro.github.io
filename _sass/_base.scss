@@ -108,6 +108,18 @@ blockquote {
     }
   }
 
+  .card-blue-dark {
+    background-color: var(--global-card-button-color-blue);
+    .subtitle {
+      color: var(--global-bg-color);
+      font-size: 1.25rem;
+      margin-top: 1.5rem;
+      margin-bottom: 1.5rem;
+      text-align: center;
+      font-weight: 300;
+    }
+  }
+
   .card-grey {
     background-color: var(--global-card-bg-color-grey);
     .button {
@@ -200,7 +212,7 @@ blockquote {
   box-shadow: none;
   border-bottom: 1px solid var(--global-divider-color);
   background-color: var(--global-bg-feature-color);
-  opacity: 0.95;
+  opacity: 1;
 }
 .navbar .dropdown-menu {
   background-color: var(--global-bg-color);
