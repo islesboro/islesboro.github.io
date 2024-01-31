@@ -8,19 +8,43 @@ subtitle: #x
 news: false  # includes a list of news items
 social: true  # includes social icons at the bottom of the page
 ---
-
-# Islesboro wins $100k DOE Rural Energy Prize and enters Round 2 of Prize Competition
+<div class="row card-intro">
+    <div class="col-sm mt-1 mt-md-0">
+        <div class="button card-blue">
+          The Energy Hub is Islesboro’s guide to info, events, and support for home energy improvements and community energy initiatives
+        </div>
+    </div>
+</div>
 <br />
-Islesboro won the U.S. Department of Energy's <a href="https://www.herox.com/rural-energy/teams">Energizing Rural Communities Prize!</a>
 
-With these funds, we will build our capacity to offer logistical support to Islesboro residents and organizations who want solar, insulation, heat pumps, and other energy upgrades. We will also be able to apply for additional funding to reduce the upfront cost of clean energy projects on the island. 
-<br />
+# Upcoming Events
+<div>
+    <h2>February 6th @ Library: Home Weatherization & Energy Savings</h2>
+    <div style="padding: 5px" />
+    <div>
+      <img width="100%" src="assets/img/240129_ERCP_WebsiteFlyer_LibraryEvent.jpg" />
+    </div>
+    <div style="padding: 10px" />
+    <p>
+        With rising costs of heating and electricity it's hard to know the best ways to save energy in the home and stay comfortable in the winter and the summer. Come learn more from a home energy auditor about what you can do to save money in your home and be more comfortable year-round. Bring your questions about what options make the most sense and will save the most money!
+    </p>
+    <p>
+      Colin McCullough is a BPI-certified independent Home Energy Auditor. 
+      He has worked for state energy efficiency programs for 14 years, advising 
+      homeowners on the most efficient options for a more affordable, comfortable 
+      and safe home. He is currently renovating his 110-year-old home 
+      in Farmingdale to achieve Net-Zero Energy status.
+    </p>
+    <div style="padding: 20px" />
+</div>
+
+
 
 <div class="row card-intro">
     <div class="col-sm mt-1 mt-md-0">
       <div class="card-item card-yellow">
-        <a class="button card-yellow col-sm" href="https://forms.gle/uR3VgGDiz4hi3C3D6">
-          <span class="buttonLarge">Sign up for a free Home Energy Assessment <i class="fa-solid fa-circle-arrow-right"></i></span>
+        <a class="button card-yellow col-sm" href="https://forms.gle/aqnvajTY5DTg2rgK9">
+          <span class="buttonLarge">We want to hear about your home energy needs <i class="fa-solid fa-circle-arrow-right"></i></span>
         </a>
       </div>
     </div>
@@ -36,9 +60,9 @@ With these funds, we will build our capacity to offer logistical support to Isle
     </div>
     <div class="col-sm mt-2 mt-md-0">
       <div class="card-item card-blue">
-        <h2>Residents and Friends: Tell us about your home energy needs</h2>
-        <p>Tell us what energy-related needs and ideas you have for the island and your homes</p>
-            <a class="button card-yellow" href="https://forms.gle/ExXFmbJW7C8rVzrC9">Take our survey <i class="fa-solid fa-circle-arrow-right"></i></a>
+        <h2>Interested in a free Home Energy Assessment?</h2>
+        <p>Our first Home Energy Assessment Week has been scheduled for February, and we might organize a second round of home energy consults in the spring. Sign up and we'll keep you informed of our progress.</p>
+            <a class="button card-yellow" href="https://forms.gle/uR3VgGDiz4hi3C3D6">Sign up here <i class="fa-solid fa-circle-arrow-right"></i></a>
       </div>
     </div>
 </div>
