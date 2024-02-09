@@ -20,8 +20,26 @@ social: true  # includes social icons at the bottom of the page
 </div>
 <br />
 
-# Upcoming Events
-<div>
+# Upcoming Event
+<div style="padding: 10px" />
+
+<div class="row">
+    <div class="col-sm mt-2 mt-md-0">
+      <h3>Tuesday, February 13th @ 5pm-5:30pm<br/>Town Office & Zoom</h3>
+      <div style="padding: 5px" />
+      <h2>Islesboro's Rural Energy Prize: Progress & Plans</h2>
+      <div style="padding: 5px" />
+      <h3>Kizzi Barton, Islesboro Community Energy Coordinator</h3>
+      <div style="padding: 5px" />
+      <a class="button-zoom button" href="https://us06web.zoom.us/j/85801756712?pwd=DlpgpcM1MH3PY32SLf0ZDbKk2tP410.1">Click Here to Join Zoom <i class="fa-solid fa-circle-arrow-right"></i></a>
+    </div>
+    <div class="col-sm mt-2 mt-md-0">
+        <img width="100%" src="assets/img/240213_ERCP_WebsiteFlyer_PrizePresentation.jpg" />
+    </div>
+</div>
+
+<div style="padding: 10px" />
+<!--div>
     <h2>February 6th @ Library: Home Weatherization & Energy Savings</h2>
     <div style="padding: 5px" />
     <div>
@@ -39,21 +57,7 @@ social: true  # includes social icons at the bottom of the page
       in Farmingdale to achieve Net-Zero Energy status.
     </p>
     <div style="padding: 20px" />
-</div>
-
-<div>
-    <h2>February 13th @ Town Office & Zoom: <br />Rural Energy Prize Progress & Plans</h2>
-    <div style="padding: 5px" />
-    <div>
-      <img width="100%" src="assets/img/240130_ERCP_WebsiteFlyer_PrizePresentation.jpg" />
-    </div>
-    <div style="padding: 10px" />
-    <p>
-        <a href="https://us06web.zoom.us/j/85801756712?pwd=DlpgpcM1MH3PY32SLf0ZDbKk2tP410.1">Zoom Link: Click Here</a> 
-    </p>
-    <div style="padding: 20px" />
-</div>
-
+</div-->
 
 <div class="row card-intro">
     <div class="col-sm mt-1 mt-md-0">

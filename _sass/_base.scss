@@ -81,7 +81,7 @@ blockquote {
   }
 }
 
-.buttonLarge { font-size: 1.75rem; }
+
 
 .card-intro {
 
@@ -154,6 +154,12 @@ blockquote {
   cursor: pointer;
   -webkit-transition-duration: 0.4s; /* Safari */
   transition-duration: 0.4s;
+}
+
+.buttonLarge { font-size: 1.75rem; }
+
+.button-zoom {
+  background-color: var(--global-card-button-color-blue); 
 }
 
 .button:hover {
