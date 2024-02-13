@@ -25,4 +25,6 @@ Islesboro’s Community Energy Coordinator will work to understand community mem
       </div>
     </div>
 </div>
+
+<a href="https://docs.google.com/presentation/d/1WYe5TKZN8MXsBuyJMEYT6TYK9hjF3R8nVL7lu9JHLdw/edit?usp=sharing">Prize Presentation</a>
 <div style="height: 200px" />

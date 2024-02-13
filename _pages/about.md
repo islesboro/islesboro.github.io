@@ -20,6 +20,17 @@ social: true  # includes social icons at the bottom of the page
 </div>
 <br />
 
+<div class="row card-intro">
+    <div class="col-sm mt-1 mt-md-0">
+      <div class="card-item card-yellow">
+        <h2>Islesboro Residents: Tell us what community & home energy programs you would like to receive info about</h2>
+        <p>We are gauging interest in a second Home Energy Assessment Week, in addition to DIY weatherization training & parties, organizing a group install of heat pump water heaters, and a WindowDressers Community Build.</p>
+        <a class="button card-yellow" href="https://forms.gle/bTAqav4z6qdQXnaT9">Sign up to receive info about these upcoming community energy programs <i class="fa-solid fa-circle-arrow-right"></i></a>
+      </div>
+    </div>
+</div>
+
+<br />
 # Upcoming Event
 <div style="padding: 10px" />
 
@@ -60,28 +71,18 @@ social: true  # includes social icons at the bottom of the page
 </div-->
 
 <div class="row card-intro">
-    <div class="col-sm mt-1 mt-md-0">
-      <div class="card-item card-yellow">
-        <a class="button card-yellow col-sm" href="https://forms.gle/aqnvajTY5DTg2rgK9">
-          <span class="buttonLarge">We want to hear about your home energy needs <i class="fa-solid fa-circle-arrow-right"></i></span>
-        </a>
+    <div class="col-sm mt-2 mt-md-0">
+      <div class="card-item card-blue">
+        <h2>We want to hear about your home energy needs and plans!</h2>
+        <p>Help us reach our goal of learning about 200 homes on the island.</p>
+            <a class="button card-yellow" href="https://forms.gle/aqnvajTY5DTg2rgK9">Fill out the survey here <i class="fa-solid fa-circle-arrow-right"></i></a>
       </div>
     </div>
-</div>
-
-<div class="row card-intro">
     <div class="col-sm mt-2 mt-md-0">
       <div class="card-item card-yellow">
         <h2>Say Hello to Islesboro's Community Energy Coordinator!</h2>
-        <p>Kizzi Barton has joined the Rural Energy Prize team as Islesboro's first Coordinator</p>
+        <p>Kizzi Barton has joined the Rural Energy Prize team as Islesboro's first Coordinator.</p>
         <a class="button card-yellow" href="https://islesboroenergy.org/coordinator/">Meet the Coordinator <i class="fa-solid fa-circle-arrow-right"></i></a>
-      </div>
-    </div>
-    <div class="col-sm mt-2 mt-md-0">
-      <div class="card-item card-blue">
-        <h2>Interested in a free Home Energy Assessment?</h2>
-        <p>Our first Home Energy Assessment Week has been scheduled for February, and we might organize a second round of home energy consults in the spring. Sign up and we'll keep you informed of our progress.</p>
-            <a class="button card-yellow" href="https://forms.gle/uR3VgGDiz4hi3C3D6">Sign up here <i class="fa-solid fa-circle-arrow-right"></i></a>
       </div>
     </div>
 </div>
