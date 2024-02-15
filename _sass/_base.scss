@@ -88,6 +88,17 @@ blockquote {
   // img {
   //   width: 100%;
   // }
+  .card-item {
+    padding: 15px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    border-radius: 8px;
+
+    .row {
+      display: flex;
+      align-items: center;
+    }
+  }
 
   .card-title {
     color: var(--global-text-color);
@@ -110,13 +121,14 @@ blockquote {
 
   .card-blue-dark {
     background-color: var(--global-card-button-color-blue);
+    text-align: center;
+    padding-top: 30px;
     .subtitle {
       color: var(--global-bg-color);
       font-size: 1.25rem;
       margin-top: 1.5rem;
       margin-bottom: 1.5rem;
-      text-align: center;
-      font-weight: 300;
+      font-weight: bold;
     }
   }
 
@@ -124,18 +136,6 @@ blockquote {
     background-color: var(--global-card-bg-color-grey);
     .button {
       background-color: var(--global-card-button-color-grey);
-    }
-  }
-
-  .card-item {
-    padding: 15px;
-    margin-bottom: 10px;
-    margin-top: 10px;
-    border-radius: 8px;
-
-    .row {
-      display: flex;
-      align-items: center;
     }
   }
 }
@@ -216,7 +216,7 @@ blockquote {
 
 .navbar {
   box-shadow: none;
-  border-bottom: 1px solid var(--global-divider-color);
+  border-bottom: 0px solid var(--global-divider-color);
   background-color: var(--global-bg-feature-color);
   opacity: 1;
 }
