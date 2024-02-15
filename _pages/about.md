@@ -89,7 +89,6 @@ social: true  # includes social icons at the bottom of the page
     <div style="padding: 20px" />
 </div-->
 
-<br />
 <div>
     <h2>Watch Kizzi Barton introduce Islesboro's Rural Energy Prize Plan:</h2>
     <div style="padding: 5px" />
