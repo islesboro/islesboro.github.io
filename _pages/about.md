@@ -19,6 +19,14 @@ social: true  # includes social icons at the bottom of the page
   </div>
 </div>
 
+<div class="row card-intro">
+  <div class="col-sm mt-1 mt-md-0">
+    <div class="card-item card-blue">
+        <a class="button card-yellow" href="https://forms.gle/bTAqav4z6qdQXnaT9"><h2><span style="line-height: 1.5em">Sign up for Dinner for Your Thoughts, DIY Weatherization Workshops, and more <i class="fa-solid fa-circle-arrow-right"></i></span></h2></a>
+    </div>
+  </div>
+</div>
+
 <!--div class="row card-intro">
     <div class="col-sm mt-1 mt-md-0">
       <div class="card-item card-yellow">
