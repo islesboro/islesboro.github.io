@@ -18,11 +18,16 @@ social: true  # includes social icons at the bottom of the page
     </div>
   </div>
 </div>
-
+<br />
+# Help us win the <a href="https://www.herox.com/rural-energy">DOE Rural Energy Prize</a> Round 2:
 <div class="row card-intro">
   <div class="col-sm mt-1 mt-md-0">
     <div class="card-item card-blue">
-        <a class="button card-yellow" href="https://forms.gle/bTAqav4z6qdQXnaT9"><h2><span style="line-height: 1.5em">Sign up for Dinner for Your Thoughts, DIY Weatherization Workshops, and more <i class="fa-solid fa-circle-arrow-right"></i></span></h2></a>
+        <a class="button button-large" href="https://forms.gle/bTAqav4z6qdQXnaT9">
+          <img src="{{ site.url }}/assets/img/side_rays_l.svg" alt="" class="img-fluid-svg-height" />
+          <span>Sign up for Dinner for Your Thoughts, DIY Weatherization Workshops, and more <i class="fa-solid fa-circle-arrow-right"></i></span>
+          <img src="{{ site.url }}/assets/img/side_rays_r.svg" alt="" class="img-fluid-svg-height" />
+        </a>
     </div>
   </div>
 </div>
@@ -97,6 +102,7 @@ social: true  # includes social icons at the bottom of the page
     <div style="padding: 20px" />
 </div-->
 
+# Videos
 <div>
     <h2>Watch Kizzi Barton introduce Islesboro's Rural Energy Prize Plan:</h2>
     <div style="padding: 5px" />

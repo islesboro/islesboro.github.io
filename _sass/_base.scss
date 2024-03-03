@@ -117,6 +117,14 @@ blockquote {
     .button {
       background-color: var(--global-card-button-color-blue);
     }
+    .button-large {
+      display: flex;
+      line-height: 1.5em;
+      padding: 10px;
+      align-items: center;
+      font-weight: 700; 
+      font-size: 1.5rem;
+    }
   }
 
   .card-blue-dark {
