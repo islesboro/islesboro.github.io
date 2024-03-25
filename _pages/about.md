@@ -23,9 +23,9 @@ social: true  # includes social icons at the bottom of the page
 <div class="row card-intro">
   <div class="col-sm mt-1 mt-md-0">
     <div class="card-item card-blue">
-        <a class="button button-large" href="https://forms.gle/bTAqav4z6qdQXnaT9">
+        <a class="button button-large" href="https://forms.gle/HJ7w3eqmWXDZkTrR9">
           <img src="{{ site.url }}/assets/img/side_rays_l.svg" alt="" class="img-fluid-svg-height" />
-          <span>Sign up for Dinner for Your Thoughts, DIY Weatherization Workshops, and more <i class="fa-solid fa-circle-arrow-right"></i></span>
+          <span>Sign up for a Free 1-Hour Home Energy Consult with an independent energy auditor (March 30-April 4) <i class="fa-solid fa-circle-arrow-right"></i></span>
           <img src="{{ site.url }}/assets/img/side_rays_r.svg" alt="" class="img-fluid-svg-height" />
         </a>
     </div>
@@ -53,7 +53,7 @@ social: true  # includes social icons at the bottom of the page
     <div class="col-sm mt-2 mt-md-0">
       <div class="card-item card-blue">
         <h2>Help us reach our goal of learning about 200 homes on the island</h2>
-        <p>We want to hear about your home energy needs and plans!</p>
+        <p>We want to hear about your home energy needs and plans! Then we'll give you personalized feedback on available rebates/incentives, and how you compare with your island neigbhors</p>
             <a class="button card-yellow" href="https://forms.gle/aqnvajTY5DTg2rgK9">Fill out the survey here <i class="fa-solid fa-circle-arrow-right"></i></a>
       </div>
     </div>
@@ -152,11 +152,10 @@ social: true  # includes social icons at the bottom of the page
   <hr width="100%" />
 </div>
 
-<div class="row justify-content-sm-center">
+<!--div class="row justify-content-sm-center">
   <hr>
   <div class="col-sm-2 col-md-0"></div>
   <div class="col-sm-8 col-md-0">
-        <!-- Begin Mailchimp Signup Form -->
         <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7_dtp.css" rel="stylesheet" type="text/css">
         <style type="text/css">
         	#mc_embed_signup{background:#fff; clear:both; font:14px; text-align:center; align-items:center;}
@@ -183,7 +182,7 @@ social: true  # includes social icons at the bottom of the page
                 	<div id="mce-responses" class="clear foot">
                 		<div class="response" id="mce-error-response" style="display:none"></div>
                 		<div class="response" id="mce-success-response" style="display:none"></div>
-                	</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+                	</div>
                     <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_07fbabaf1bf18f715f917a219_f2f1418c65" tabindex="-1" value=""></div>
                         <div class="optionalParent">
                             <div class="clear footer">
@@ -196,11 +195,9 @@ social: true  # includes social icons at the bottom of the page
                 </form>
             </div>
         <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[3]='ADDRESS';ftypes[3]='address';fnames[4]='PHONE';ftypes[4]='phone';fnames[5]='BIRTHDAY';ftypes[5]='birthday';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
-        <!--End mc_embed_signup-->
     </div>
     <div class="col-sm-2 col-md-0"></div>
-
-</div>
+</div-->
 
 
 <!-- Energy Jamboree Banner section -->
