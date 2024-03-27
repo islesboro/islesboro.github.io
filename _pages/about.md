@@ -25,7 +25,7 @@ social: true  # includes social icons at the bottom of the page
     <div class="card-item card-blue">
         <a class="button button-large" href="https://forms.gle/HJ7w3eqmWXDZkTrR9">
           <img src="{{ site.url }}/assets/img/side_rays_l.svg" alt="" class="img-fluid-svg-height" />
-          <span>Sign up for a Free 1-Hour Home Energy Consult with an independent energy auditor (March 30-April 4) <i class="fa-solid fa-circle-arrow-right"></i></span>
+          <span>Sign up for DIY Weatherization Workshops or a Free 1-Hour Home Energy Consult with an independent energy auditor (March 30-April 4) <i class="fa-solid fa-circle-arrow-right"></i></span>
           <img src="{{ site.url }}/assets/img/side_rays_r.svg" alt="" class="img-fluid-svg-height" />
         </a>
     </div>
