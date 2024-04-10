@@ -23,37 +23,27 @@ social: true  # includes social icons at the bottom of the page
 <div class="row card-intro">
   <div class="col-sm mt-1 mt-md-0">
     <div class="card-item card-blue">
-        <a class="button button-large" href="https://forms.gle/HJ7w3eqmWXDZkTrR9">
+        <a class="button button-large" href="https://forms.gle/aqnvajTY5DTg2rgK9">
           <img src="{{ site.url }}/assets/img/side_rays_l.svg" alt="" class="img-fluid-svg-height" />
-          <span>Sign up for DIY Weatherization Workshops or a Free 1-Hour Home Energy Consult with an independent energy auditor (March 30-April 4) <i class="fa-solid fa-circle-arrow-right"></i></span>
+          <span>Take the Islesboro Home Energy Survey to help us apply for community energy project funding <i class="fa-solid fa-circle-arrow-right"></i></span>
           <img src="{{ site.url }}/assets/img/side_rays_r.svg" alt="" class="img-fluid-svg-height" />
         </a>
     </div>
   </div>
 </div>
 
-<!--div class="row card-intro">
-    <div class="col-sm mt-1 mt-md-0">
-      <div class="card-item card-yellow">
-        <h2>Islesboro Residents: Tell us what community & home energy programs you would like to hear more about</h2>
-        <p>We are gauging interest in a second Home Energy Assessment Week, in addition to DIY weatherization training & parties, organizing a group install of heat pump water heaters, and a WindowDressers Community Build.</p>
-        <a class="button card-yellow" href="https://forms.gle/bTAqav4z6qdQXnaT9">Sign up to get info about upcoming community energy programs <i class="fa-solid fa-circle-arrow-right"></i></a>
-      </div>
-    </div>
-</div-->
-
 <div class="row card-intro">
     <div class="col-sm mt-2 mt-md-0">
       <div class="card-item card-yellow">
         <h2>Islesboro Residents: Tell us what community & home energy programs you would like to hear more about</h2>
-        <p>We are gauging interest in a second Home Energy Assessment Week, in addition to DIY weatherization training & parties, organizing a group install of heat pump water heaters, and a WindowDressers Community Build.</p>
+        <p>We are gauging interest in DIY weatherization training & parties, organizing a group install of heat pump water heaters, DIY solar installs, and a WindowDressers Community Build.</p>
         <a class="button card-yellow" href="https://forms.gle/bTAqav4z6qdQXnaT9">Sign up to get more info <i class="fa-solid fa-circle-arrow-right"></i></a>
       </div>
     </div>
     <div class="col-sm mt-2 mt-md-0">
       <div class="card-item card-blue">
         <h2>Help us reach our goal of learning about 200 homes on the island</h2>
-        <p>We want to hear about your home energy needs and plans! Then we'll give you personalized feedback on available rebates/incentives, and how you compare with your island neigbhors</p>
+        <p>We want to hear about your home energy needs and plans! Then we'll give you personalized feedback on available rebates/incentives, and how you compare with your island neighbors</p>
             <a class="button card-yellow" href="https://forms.gle/aqnvajTY5DTg2rgK9">Fill out the survey here <i class="fa-solid fa-circle-arrow-right"></i></a>
       </div>
     </div>
