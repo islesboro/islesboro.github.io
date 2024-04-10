@@ -34,31 +34,8 @@ social: true  # includes social icons at the bottom of the page
       <h2>Help us reach our goal of learning about 200 homes on the island</h2>
       <p>We want to hear about your home energy needs and plans! Then we'll give you personalized feedback on available rebates/incentives, and how you compare with your island neighbors. Your survey will also help us apply for community energy project funding.</p>
           <a class="button card-yellow" href="https://forms.gle/aqnvajTY5DTg2rgK9">Fill out the survey here <i class="fa-solid fa-circle-arrow-right"></i></a>
-    </div>              
-    <div class="news">
-      <h1>News</h1>
-      {% if site.news != blank -%} 
-      <div class="table-responsive">
-        <table class="table table-sm table-borderless">
-        {%- assign news = site.news | reverse -%} 
-        {% for item in news limit: site.news_limit %} 
-          <tr>
-            <th scope="row">{{ item.date | date: "%b %-d, %Y" }}</th>
-            <td>
-              {% if item.inline -%} 
-                {{ item.content | remove: '<p>' | remove: '</p>' | emojify }}
-              {%- else -%} 
-                <a class="news-title" href="{{ item.url | relative_url }}">{{ item.title }}</a>
-              {%- endif %} 
-            </td>
-          </tr>
-        {%- endfor %} 
-        </table>
-      </div>
-    {%- else -%} 
-      <p>No news so far...</p>
-    {%- endif %} 
-    </div>
+    </div>          
+    <br />    
   </div>
 
 <!--div>
@@ -100,7 +77,7 @@ social: true  # includes social icons at the bottom of the page
     </p>
     <div style="padding: 20px" />
 </div-->
-  <div class="col-sm px-lg-4">
+  <div class="col-md px-md-4">
     <h1>Watch</h1>
     <div>
         <h2>Kizzi Barton introduces Islesboro's Rural Energy Prize Plan</h2>
@@ -118,6 +95,39 @@ social: true  # includes social icons at the bottom of the page
     </div>
   </div>
 </div>
+
+<br />
+<div class="row card-intro px-md-n4 mx-1">
+  <div class="col-md px-md-4">
+    <div class="news">
+      <h1>News</h1>
+      {% if site.news != blank -%} 
+      <div class="table-responsive">
+        <table class="table table-sm table-borderless">
+        {%- assign news = site.news | reverse -%} 
+        {% for item in news limit: site.news_limit %} 
+          <tr>
+            <th scope="row">{{ item.date | date: "%b %-d, %Y" }}</th>
+            <td>
+              {% if item.inline -%} 
+                {{ item.content | remove: '<p>' | remove: '</p>' | emojify }}
+              {%- else -%} 
+                <a class="news-title" href="{{ item.url | relative_url }}">{{ item.title }}</a>
+              {%- endif %} 
+            </td>
+          </tr>
+        {%- endfor %} 
+        </table>
+      </div>
+    {%- else -%} 
+      <p>No news so far...</p>
+    {%- endif %} 
+    </div>
+  </div>
+  <div class="col-md px-md-4">
+  </div>
+</div>
+
 <br />
 
 <div class="row justify-content-sm-center">

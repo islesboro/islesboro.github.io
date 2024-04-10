@@ -254,15 +254,6 @@ blockquote {
 
 // Navbar customization
 
-@media (min-width: 765px) {
-  .navbar-expand-sm .navbar-collapse {
-      display: -ms-flexbox !important;
-      display: flex !important;
-      -ms-flex-preferred-size: auto;
-      flex-basis: auto;
-  }
-}
-
 .navbar {
   box-shadow: none;
   border-bottom: 0px solid var(--global-divider-color);
