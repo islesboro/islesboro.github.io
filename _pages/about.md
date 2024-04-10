@@ -8,47 +8,58 @@ subtitle: #x
 news: false  # includes a list of news items
 social: true  # includes social icons at the bottom of the page
 ---
-<div class="row card-intro">
-  <div class="col-sm mt-1 mt-md-0">
-    <div class="card-blue-dark card-item">
-        <span class="subtitle">
-          The Energy Hub is Islesboro’s guide to info, events, and support for<br /> 
-          home energy improvements and community energy initiatives.
-        </span>
+<div class="row card-intro px-md-n4 mx-1">
+  <div class="col-md px-md-4">
+    <div class="subtitle">
+      The Energy Hub is Islesboro’s guide to info, events, and support for
+      home energy improvements and community energy initiatives.
     </div>
-  </div>
-</div>
-<br />
-# Help us win the <a href="https://www.herox.com/rural-energy">DOE Rural Energy Prize</a> Round 2:
-<div class="row card-intro">
-  <div class="col-sm mt-1 mt-md-0">
+    <h1>Participate</h1>
+<!--# Help us win the <a href="https://www.herox.com/rural-energy">DOE Rural Energy Prize</a> Round 2:-->
+    <div class="card-blue-button">
+      <a class="button button-large" href="https://forms.gle/aqnvajTY5DTg2rgK9">
+        <img src="{{ site.url }}/assets/img/side_rays_l.svg" alt="" class="img-fluid-svg-height" />
+        <div class="button-text">
+          <span>Take the Islesboro Home Energy Survey &nbsp;<i class="fa-solid fa-circle-arrow-right"></i></span>
+        </div>
+        <img src="{{ site.url }}/assets/img/side_rays_r.svg" alt="" class="img-fluid-svg-height" />
+      </a>
+    </div>
+    <div class="card-item card-yellow">
+      <h2>Islesboro Residents: Tell us what community & home energy programs you would like to hear more about</h2>
+      <p>We are gauging interest in DIY weatherization training & parties, organizing a group install of heat pump water heaters, DIY solar installs, and a WindowDressers Community Build.</p>
+      <a class="button card-yellow" href="https://forms.gle/bTAqav4z6qdQXnaT9">Sign up to get more info <i class="fa-solid fa-circle-arrow-right"></i></a>
+    </div>
     <div class="card-item card-blue">
-        <a class="button button-large" href="https://forms.gle/aqnvajTY5DTg2rgK9">
-          <img src="{{ site.url }}/assets/img/side_rays_l.svg" alt="" class="img-fluid-svg-height" />
-          <span>Take the Islesboro Home Energy Survey to help us apply for community energy project funding <i class="fa-solid fa-circle-arrow-right"></i></span>
-          <img src="{{ site.url }}/assets/img/side_rays_r.svg" alt="" class="img-fluid-svg-height" />
-        </a>
+      <h2>Help us reach our goal of learning about 200 homes on the island</h2>
+      <p>We want to hear about your home energy needs and plans! Then we'll give you personalized feedback on available rebates/incentives, and how you compare with your island neighbors. Your survey will also help us apply for community energy project funding.</p>
+          <a class="button card-yellow" href="https://forms.gle/aqnvajTY5DTg2rgK9">Fill out the survey here <i class="fa-solid fa-circle-arrow-right"></i></a>
+    </div>              
+    <div class="news">
+      <h1>News</h1>
+      {% if site.news != blank -%} 
+      <div class="table-responsive">
+        <table class="table table-sm table-borderless">
+        {%- assign news = site.news | reverse -%} 
+        {% for item in news limit: site.news_limit %} 
+          <tr>
+            <th scope="row">{{ item.date | date: "%b %-d, %Y" }}</th>
+            <td>
+              {% if item.inline -%} 
+                {{ item.content | remove: '<p>' | remove: '</p>' | emojify }}
+              {%- else -%} 
+                <a class="news-title" href="{{ item.url | relative_url }}">{{ item.title }}</a>
+              {%- endif %} 
+            </td>
+          </tr>
+        {%- endfor %} 
+        </table>
+      </div>
+    {%- else -%} 
+      <p>No news so far...</p>
+    {%- endif %} 
     </div>
   </div>
-</div>
-
-<div class="row card-intro">
-    <div class="col-sm mt-2 mt-md-0">
-      <div class="card-item card-yellow">
-        <h2>Islesboro Residents: Tell us what community & home energy programs you would like to hear more about</h2>
-        <p>We are gauging interest in DIY weatherization training & parties, organizing a group install of heat pump water heaters, DIY solar installs, and a WindowDressers Community Build.</p>
-        <a class="button card-yellow" href="https://forms.gle/bTAqav4z6qdQXnaT9">Sign up to get more info <i class="fa-solid fa-circle-arrow-right"></i></a>
-      </div>
-    </div>
-    <div class="col-sm mt-2 mt-md-0">
-      <div class="card-item card-blue">
-        <h2>Help us reach our goal of learning about 200 homes on the island</h2>
-        <p>We want to hear about your home energy needs and plans! Then we'll give you personalized feedback on available rebates/incentives, and how you compare with your island neighbors</p>
-            <a class="button card-yellow" href="https://forms.gle/aqnvajTY5DTg2rgK9">Fill out the survey here <i class="fa-solid fa-circle-arrow-right"></i></a>
-      </div>
-    </div>
-
-</div>
 
 <!--div>
   <div style="padding: 15px" />
@@ -70,8 +81,6 @@ social: true  # includes social icons at the bottom of the page
       </div>
   </div>
 </div-->
-
-<div style="padding: 10px" />
 <!--div>
     <h2>February 6th @ Library: Home Weatherization & Energy Savings</h2>
     <div style="padding: 5px" />
@@ -91,52 +100,25 @@ social: true  # includes social icons at the bottom of the page
     </p>
     <div style="padding: 20px" />
 </div-->
-
-# Videos
-<div>
-    <h2>Watch Kizzi Barton introduce Islesboro's Rural Energy Prize Plan:</h2>
-    <div style="padding: 5px" />
-    <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/913367716?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" style="position:absolute;top:0;left:0;width:100%;height:100%;border-radius:8px;" title="Islesboro Rural Energy Prize - Info Meeting"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-    <div style="padding: 10px" />
-    <h3>Islesboro's Rural Energy Prize: Progress & Plans</h3>
-    <p>Kizzi Barton, Islesboro Community Energy Coordinator<br />Tuesday, February 13th @ 5pm-5:30pm, Town Office & Zoom</p>
-</div>
-<br />
-<div>
-    <h2>Watch the Islesboro Prize Plan introductory video:</h2>
-    <div style="padding: 5px" />
-    <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/852559307?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" style="position:absolute;top:0;left:0;width:100%;height:100%;border-radius:8px;" title="Islesboro Rural Energy Prize - Info Meeting"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-</div>
-<br />
-
-# News
-          
-<div class="news">
-  {% if site.news != blank -%} 
-  <div class="table-responsive">
-    <table class="table table-sm table-borderless">
-    {%- assign news = site.news | reverse -%} 
-    {% for item in news limit: site.news_limit %} 
-      <tr>
-        <th scope="row">{{ item.date | date: "%b %-d, %Y" }}</th>
-        <td>
-          {% if item.inline -%} 
-            {{ item.content | remove: '<p>' | remove: '</p>' | emojify }}
-          {%- else -%} 
-            <a class="news-title" href="{{ item.url | relative_url }}">{{ item.title }}</a>
-          {%- endif %} 
-        </td>
-      </tr>
-    {%- endfor %} 
-    </table>
+  <div class="col-sm px-lg-4">
+    <h1>Watch</h1>
+    <div>
+        <h2>Kizzi Barton introduces Islesboro's Rural Energy Prize Plan</h2>
+        <div style="padding: 5px" />
+        <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/913367716?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" style="position:absolute;top:0;left:0;width:100%;height:100%;border-radius:8px;" title="Islesboro Rural Energy Prize - Info Meeting"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+        <div style="padding: 10px" />
+        <!--h3>Islesboro's Rural Energy Prize: Progress & Plans</h3>
+        <p>Kizzi Barton, Islesboro Community Energy Coordinator<br />Tuesday, February 13th @ 5pm-5:30pm, Town Office & Zoom</-->
+    </div>
+    <br />
+    <div>
+        <h2>Islesboro Prize Plan introductory video</h2>
+        <div style="padding: 5px" />
+        <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/852559307?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" style="position:absolute;top:0;left:0;width:100%;height:100%;border-radius:8px;" title="Islesboro Rural Energy Prize - Info Meeting"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+    </div>
   </div>
-{%- else -%} 
-  <p>No news so far...</p>
-{%- endif %} 
 </div>
-
 <br />
-
 
 <div class="row justify-content-sm-center">
   <hr width="100%" />
