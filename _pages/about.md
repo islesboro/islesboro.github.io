@@ -15,30 +15,35 @@ social: true  # includes social icons at the bottom of the page
       home energy improvements and community energy initiatives.
     </div>
     <h1>Participate</h1>
-<!--# Help us win the <a href="https://www.herox.com/rural-energy">DOE Rural Energy Prize</a> Round 2:-->
-    <div class="card-blue-button">
-      <a class="button button-large" href="https://forms.gle/aqnvajTY5DTg2rgK9">
+    <div class="card-item card-blue"><div class="card-blue-button">
+        <a class="button button-large" href="https://forms.gle/aqnvajTY5DTg2rgK9">
         <img src="{{ site.url }}/assets/img/side_rays_l.svg" alt="" class="img-fluid-svg-height" />
         <div class="button-text">
           <span>Take the Islesboro Home Energy Survey &nbsp;<i class="fa-solid fa-circle-arrow-right"></i></span>
         </div>
         <img src="{{ site.url }}/assets/img/side_rays_r.svg" alt="" class="img-fluid-svg-height" />
-      </a>
-    </div>
+        </a>
+      </div>
+      <h2>We need 130 more homes to take the survey!</h2>
+      <p>Help us reach our goal of learning about 200 homes on the island. We want to hear about your home energy needs and plans! Then we'll give you personalized feedback on available rebates/incentives, and how you compare with your island neighbors. Your survey will also help us apply for the $200k Rural Energy Prize Round 2 and grants for community energy projects like solar and home insulation.</p>
+    </div>  
     <div class="card-item card-yellow">
-      <h2>Islesboro Residents: Tell us what community & home energy programs you would like to hear more about</h2>
-      <p>We are gauging interest in DIY weatherization training & parties, organizing a group install of heat pump water heaters, DIY solar installs, and a WindowDressers Community Build.</p>
-      <a class="button card-yellow" href="https://forms.gle/bTAqav4z6qdQXnaT9">Sign up to get more info <i class="fa-solid fa-circle-arrow-right"></i></a>
-    </div>
-    <div class="card-item card-blue">
-      <h2>Help us reach our goal of learning about 200 homes on the island</h2>
-      <p>We want to hear about your home energy needs and plans! Then we'll give you personalized feedback on available rebates/incentives, and how you compare with your island neighbors. Your survey will also help us apply for community energy project funding.</p>
-          <a class="button card-yellow" href="https://forms.gle/aqnvajTY5DTg2rgK9">Fill out the survey here <i class="fa-solid fa-circle-arrow-right"></i></a>
-    </div>          
+      <h2>Interested in getting Window Inserts before next winter? Tell us now!</h2>
+      <p>If we gather enough interest now, we will plan an Islesboro WindowDressers Community Build for October. WindowDressers keeps prices low by having recipients come together for a few days to build all of the inserts we’ve ordered on Islesboro. See the <a href="https://windowdressers.org/frequently-asked-questions/">WindowDressers FAQ</a> or <a href="https://www.facebook.com/islesboroenergyhub/">contact Kizzi Barton</a> for more info.</p>
+      <a class="button card-yellow" href="https://forms.gle/db4zWCTtzzSvhHkz5">Tell us you're interested in window inserts <i class="fa-solid fa-circle-arrow-right"></i></a>
+      <div style="padding: 5px" />
+      <img width="100%" src="assets/img/WindowDressers_website.png" />
+    </div>        
     <br />    
   </div>
 
 <!--div>
+    <div class="card-item card-blue">
+      <h2>Help us reach our goal of learning about 200 homes on the island</h2>
+      <p>We want to hear about your home energy needs and plans! Then we'll give you personalized feedback on available rebates/incentives, and how you compare with your island neighbors. Your survey will also help us apply for community energy project funding.</p>
+          <a class="button card-yellow" href="https://forms.gle/aqnvajTY5DTg2rgK9">Fill out the survey here <i class="fa-solid fa-circle-arrow-right"></i></a>
+    </div> 
+
   <div style="padding: 15px" />
   <h1>Past Events</h1>
   <div style="padding: 10px" />
@@ -133,86 +138,3 @@ social: true  # includes social icons at the bottom of the page
 <div class="row justify-content-sm-center">
   <hr width="100%" />
 </div>
-
-<!--div class="row justify-content-sm-center">
-  <hr>
-  <div class="col-sm-2 col-md-0"></div>
-  <div class="col-sm-8 col-md-0">
-        <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7_dtp.css" rel="stylesheet" type="text/css">
-        <style type="text/css">
-        	#mc_embed_signup{background:#fff; clear:both; font:14px; text-align:center; align-items:center;}
-          #mc_embed_signup form {text-align:center; padding:0px;}
-        	#mc_heading{font-weight: 300; font-size: 1.3em; line-height: 1.0em; padding:10px 0px;}
-          #mc_label{font-weight: 300; font-size: 0.8em;}
-          #mc_embed_signup .mc-field-group {position:relative; width:100%; padding-bottom:3%; min-height:50px;}
-          #mc_embed_signup div#mce-responses {float:center; top:-1.4em; padding:0em .5em 0em .5em; overflow:hidden; width:100%; margin: 0 5%; clear: both;}
-          #mc_embed_signup .footer {width:100%; align-items: center;}
-          #mc_embed_signup .brandingLogo {justify-self:center;}
-          #mc-embedded-subscribe {clear:both; width:auto; display:block; margin:0;}
-        </style>
-        <div id="mc_embed_signup">
-          <form action="https://islesboroenergy.us14.list-manage.com/subscribe/post?u=07fbabaf1bf18f715f917a219&amp;id=f2f1418c65" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-            <div id="mc_embed_signup_scroll">
-              <div style="height: 10px" />
-            	 <span id="mc_heading">SIGN UP FOR ISLESBORO ENERGY NEWS & UPDATES</span>
-               <div style="height: 10px" />
-                <div class="mc-field-group">
-                	<label id="mc_label" for="mce-EMAIL">EMAIL ADDRESS</label>
-                	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
-                </div>
-                <div hidden="true"><input type="hidden" name="tags" value="7258151"></div>
-                	<div id="mce-responses" class="clear foot">
-                		<div class="response" id="mce-error-response" style="display:none"></div>
-                		<div class="response" id="mce-success-response" style="display:none"></div>
-                	</div>
-                    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_07fbabaf1bf18f715f917a219_f2f1418c65" tabindex="-1" value=""></div>
-                        <div class="optionalParent">
-                            <div class="clear footer">
-                                <input type="submit" value="SUBSCRIBE" name="subscribe" id="mc-embedded-subscribe" class="button" style="align:center">
-                                <br>
-                                <p class="brandingLogo"><a href="http://eepurl.com/hWzSSD" title="Mailchimp - email marketing made easy and fun"><img src="https://eep.io/mc-cdn-images/template_images/branding_logo_text_dark_dtp.svg"></a></p>
-                            </div>
-                        </div>
-                    </div>
-                </form>
-            </div>
-        <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[3]='ADDRESS';ftypes[3]='address';fnames[4]='PHONE';ftypes[4]='phone';fnames[5]='BIRTHDAY';ftypes[5]='birthday';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
-    </div>
-    <div class="col-sm-2 col-md-0"></div>
-</div-->
-
-
-<!-- Energy Jamboree Banner section -->
-<!--div class="row justify-content-sm-center">
-    <div class="col-sm-2 col-md-0"></div>
-    <div class="col-sm-8 col-md-0">
-      <a href="https://forms.gle/sdhgGq9oNAGYJ6eZA" style="text-decoration: none">
-        <img src="{{ site.url }}/assets/img/jamboree_ev_ride_web.svg" alt="Jamboree EV rides signup" class="img-fluid-svg" />
-      </a>
-      <br />
-      <br />
-      <a href="https://forms.gle/MXj4Cdsj8strL2J26" style="text-decoration: none">
-        <img src="{{ site.url }}/assets/img/jamboree_survey_web.svg" alt="Home Energy and Jamboree Survey" class="img-fluid-svg" />
-      </a>
-      <div style="height: 20px" />
-        <a href="jamboree/" style="text-decoration: none">
-          <img src="{{ site.url }}/assets/img/jamboree_flyer_web.svg" alt="Jamboree flyer" class="img-fluid-svg" />
-        </a>
-        <div style="height: 20px" />
-        <div style="width:100%;align-items:center;justify-content:center;display:flex">
-        	<div style="width:50%">
-        		  <img src="{{ site.url }}/assets/img/icc_logo_color_rev.jpg" alt="Jamboree flyer" class="img-fluid-svg" />
-        	</div>
-        </div>
-        <div style="height: 20px" />
-        <a href="https://fb.me/e/2PAxxLDHL" style="text-decoration: none">
-          <img src="{{ site.url }}/assets/img/jamboree_button_fb_horiz_web.png" alt="Jamboree flyer" class="img-fluid-svg" />
-        </a>
-        <div style="height: 20px" />
-        <a href="mailto:jamboree@islesboroenergy.org?subject=Website" style="text-decoration: none">
-          <img src="{{ site.url }}/assets/img/jamboree_button_email_horiz_web.png" alt="Jamboree flyer" class="img-fluid-svg" />
-        </a>
-        <div style="height: 20px" />
-    </div>
-    <div class="col-sm-2 col-md-0"></div>
-</div-->
