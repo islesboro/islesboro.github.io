@@ -24,7 +24,7 @@ social: true  # includes social icons at the bottom of the page
         <img src="{{ site.url }}/assets/img/side_rays_r.svg" alt="" class="img-fluid-svg-height" />
         </a>
       </div>
-      <h2>We need 130 more homes to take the survey!</h2>
+      <h2>We need 100 more homes to take the survey!</h2>
       <p>Help us reach our goal of learning about 200 homes on the island. We want to hear about your home energy needs and plans! Then we'll give you personalized feedback on available rebates/incentives, and how you compare with your island neighbors. Your survey will also help us apply for the $200k Rural Energy Prize Round 2 and grants for community energy projects like solar and home insulation.</p>
     </div>  
     <div class="card-item card-yellow">
