@@ -17,22 +17,22 @@ To explore ideas and develop proposals to present to the Select Board of the Tow
 
 <div class="row">
     <div class="col-sm mt-2 mt-md-0">
-Myra Sinnott (Interim Chair)
+Harriet Bering (Chair)
 <br />
 Bill Thomas (Vice Chair)
 <br />
-Harriet Bering
+Janis Petzel
 <br />
-J. Cressica Brazier
+Trevor Blackford
 <br />
 Dick DeGrasse
     </div>
     <div class="col-sm mt-2 mt-md-0">
 Holly Fields
 <br />
-Josh Leach
+Myra Sinnott
 <br />
-Toby Martin
+J. Cressica Brazier
 <br />
 Monica Mullins
 <br />
