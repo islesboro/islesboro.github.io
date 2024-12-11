@@ -27,18 +27,18 @@ social: true  # includes social icons at the bottom of the page
       </div>
       <h2>We need 100 more homes to take the survey!</h2>
       <p>Help us reach our goal of learning about 200 homes on the island. We want to hear about your home energy needs and plans! Then we'll give you personalized feedback on available rebates/incentives, and how you compare with your island neighbors. Your survey will also help us apply for the $200k Rural Energy Prize Round 2 and grants for community energy projects like solar and home insulation.</p>
-    </div>  
+    </div>        
+    <br />    
+  </div>
+
+<!--div>
     <div class="card-item card-yellow">
       <h2>Interested in getting Window Inserts before next winter? Tell us now!</h2>
       <p>If we gather enough interest now, we will plan an Islesboro WindowDressers Community Build for October. WindowDressers keeps prices low by having recipients come together for a few days to build all of the inserts we’ve ordered on Islesboro. See the <a href="https://windowdressers.org/frequently-asked-questions/">WindowDressers FAQ</a> or <a href="https://www.facebook.com/islesboroenergyhub/">contact Kizzi Barton</a> for more info.</p>
       <a class="button card-yellow" href="https://forms.gle/db4zWCTtzzSvhHkz5">Tell us you're interested in window inserts <i class="fa-solid fa-circle-arrow-right"></i></a>
       <div style="padding: 5px" />
       <img width="100%" src="assets/img/WindowDressers_website.png" />
-    </div>        
-    <br />    
-  </div>
-
-<!--div>
+    </div>  
     <div class="card-item card-blue">
       <h2>Help us reach our goal of learning about 200 homes on the island</h2>
       <p>We want to hear about your home energy needs and plans! Then we'll give you personalized feedback on available rebates/incentives, and how you compare with your island neighbors. Your survey will also help us apply for community energy project funding.</p>
@@ -86,7 +86,7 @@ social: true  # includes social icons at the bottom of the page
   <div class="col-md px-md-4">
     <h1>Watch</h1>
     <div>
-        <h2>Kizzi Barton introduces Islesboro's Rural Energy Prize Plan</h2>
+        <h2>Introduction to Islesboro's Rural Energy Prize Plan</h2>
         <div style="padding: 5px" />
         <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/913367716?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" style="position:absolute;top:0;left:0;width:100%;height:100%;border-radius:8px;" title="Islesboro Rural Energy Prize - Info Meeting"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
         <div style="padding: 10px" />
@@ -95,7 +95,7 @@ social: true  # includes social icons at the bottom of the page
     </div>
     <br />
     <div>
-        <h2>Islesboro Prize Plan introductory video</h2>
+        <h2>Islesboro Prize Plan introductory video for Town Info Meeting</h2>
         <div style="padding: 5px" />
         <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/852559307?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" style="position:absolute;top:0;left:0;width:100%;height:100%;border-radius:8px;" title="Islesboro Rural Energy Prize - Info Meeting"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
     </div>

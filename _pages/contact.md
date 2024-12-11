@@ -8,11 +8,6 @@ description:
 nav: true
 ---
 
-## Kizzi Barton
-### Community Energy Coordinator
-<h3><span>kizzi@<!-- comment -->islesboro<!-- comment -->energy.org</span></h3>
-<br />
-
 ## Islesboro Energy Committee
 <h3><span>info@<!-- comment -->islesboro<!-- comment -->energy.org</span></h3>
 <br />
