@@ -25,18 +25,18 @@ Janis Petzel
 <br />
 Trevor Blackford
 <br />
-Dick DeGrasse
+Kathleen Kerr
     </div>
     <div class="col-sm mt-2 mt-md-0">
 Holly Fields
 <br />
-Myra Sinnott
+Ava Schlottman
 <br />
 J. Cressica Brazier
 <br />
 Monica Mullins
 <br />
-Melissa Burns (Ex Officio)
+Peter Rothschild (Select Board Ex Officio)
     </div>
 </div>
 <br />
@@ -45,19 +45,22 @@ Melissa Burns (Ex Officio)
     <div class="col-sm mt-2 mt-md-0">
 <h2>Current Projects</h2>
 <ul>
-  <li>Community clean energy and energy efficiency planning for DOE Rural Energy Prize</li>
+  <li>Community clean energy and energy efficiency planning</li>
   <li>Town Building energy upgrades</li>
   <ul>
     <li>Energy Audits</li>
     <li>LED Lighting for Town Office and Library</li>
+    <li>Streetlight LED Lighting</li>
     <li>Insulation for Town Office and Library</li>
-    <li>Electric Vehicle Charger at Town Office</li>
+    <li>Heat Pumps for Town Office, Library, and Fire Station</li>
+
   </ul>
   <li>Solar Arrays</li>
   <ul>
     <li>Town Office (46kW)</li>
     <!--/li>  - School (65kW)</li-->
     <li>Transfer Station Salt Shed Array (30kW)</li>
+    <li>Health Center Building (30kW)</li>
   </ul>
 </ul>
     </div>
@@ -66,7 +69,7 @@ Melissa Burns (Ex Officio)
 <ul>
   <li>Cooperative solar arrays and other clean energy projects</li>
   <li>Energy independence and microgrids</li>
-  <li>Building electrification of Town Office and Library</li>
+  <li>Electric Vehicle Charger at Health Center</li>
 </ul>
     </div>
 </div>
