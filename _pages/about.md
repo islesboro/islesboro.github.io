@@ -16,13 +16,14 @@ social: true  # includes social icons at the bottom of the page
       home energy improvements and community energy initiatives.
     </div>
     <h1>Participate</h1>
+    <br /> 
     <div class="card-item card-yellow">
-      <h2>Interested in getting Window Inserts before this winter? Tell us now!</h2>
-      <p>The Islesboro Community Center and Energy Committee will host another WindowDressers Community Build this November. WindowDressers keeps prices low by having recipients come together for a few days to build all of the inserts we’ve ordered on Islesboro. See the <a href="https://windowdressers.org/frequently-asked-questions/">WindowDressers FAQ</a> for info & pricing. Contact Trevor Blackford, Islesboro WindowDressers Team Coordinator (coordinator@islesboroenergy.org), with questions about getting window inserts on Islesboro.</p>
-      <a class="button card-yellow" href="https://forms.gle/uoDZEXfr6rhcyRF78">Tell us you're interested in window inserts <i class="fa-solid fa-circle-arrow-right"></i></a>
+      <h2>Talk with our Islesboro Home Energy Coaches</h2>
+      <p>Elizabeth (our Island Fellow), Kathy, Cressica, Bill, and other members of the Energy Committee are looking to meet with Islesboro residents to discuss your concerns and needs about home energy costs and comfort. In these neighbor-to-neighbor chats about energy bills and home comfort, we can share information and discuss possibilities for home energy improvements. We can meet either in a community space (ICC or ALPL) or at your home, where we can look at your building envelope and insulation (and pets!) using our thermal imaging camera. Click the button below to go to a Google Form and tell us you're interested, then we'll get in touch to schedule a time to meet.</p>
+      <a class="button card-yellow" href="https://forms.gle/DsFWf1wfxZXxPeV4A">Sign up for an Energy Coaching Chat &nbsp;<i class="fa-solid fa-circle-arrow-right"></i></a>
       <div style="padding: 5px" />
-      <img width="100%" src="assets/img/windowdressers-islesboro-cc-2025.jpg" />
-    </div>  
+      <img width="100%" src="assets/img/islesboro-thermal-camera.jpg" />
+    </div> 
     <div class="card-item card-blue"><div class="card-blue-button">
         <a class="button button-large" href="https://forms.gle/aqnvajTY5DTg2rgK9">
         <img src="{{ site.url }}/assets/img/side_rays_l.svg" alt="" class="img-fluid-svg-height" />
@@ -32,13 +33,20 @@ social: true  # includes social icons at the bottom of the page
         <img src="{{ site.url }}/assets/img/side_rays_r.svg" alt="" class="img-fluid-svg-height" />
         </a>
       </div>
-      <h2>We need 100 more homes to take the survey!</h2>
-      <p>Help us reach our goal of learning about 200 homes on the island. We want to hear about your home energy needs and plans! Then we'll give you personalized feedback on available rebates/incentives, and how you compare with your island neighbors. Your survey will also help us apply for the $200k Rural Energy Prize Round 2 and grants for community energy projects like solar and home insulation.</p>
+      <h2>Help us learn more about your home energy needs</h2>
+      <p>Help us reach our goal of learning about most of the ~270 year-round and ~500 seasonal homes on the island--we have 120 participants so far! We want to hear about your home energy needs and plans! Then we'll give you personalized feedback on available rebates/incentives, and how you compare with your island neighbors. Your survey will also help us apply for grants for community energy projects like solar and home insulation.</p>
     </div>        
     <br />    
   </div>
 
 <!--div>
+    <div class="card-item card-yellow">
+      <h2>Interested in getting Window Inserts before this winter? Tell us now!</h2>
+      <p>The Islesboro Community Center and Energy Committee will host another WindowDressers Community Build this November. WindowDressers keeps prices low by having recipients come together for a few days to build all of the inserts we’ve ordered on Islesboro. See the <a href="https://windowdressers.org/frequently-asked-questions/">WindowDressers FAQ</a> for info & pricing. Contact Trevor Blackford, Islesboro WindowDressers Team Coordinator (coordinator@islesboroenergy.org), with questions about getting window inserts on Islesboro.</p>
+      <a class="button card-yellow" href="https://forms.gle/uoDZEXfr6rhcyRF78">Tell us you're interested in window inserts <i class="fa-solid fa-circle-arrow-right"></i></a>
+      <div style="padding: 5px" />
+      <img width="100%" src="assets/img/windowdressers-islesboro-cc-2025.jpg" />
+    </div>  
     <div class="card-item card-yellow">
       <h2>Interested in getting Window Inserts before next winter? Tell us now!</h2>
       <p>If we gather enough interest now, we will plan an Islesboro WindowDressers Community Build for October. WindowDressers keeps prices low by having recipients come together for a few days to build all of the inserts we’ve ordered on Islesboro. See the <a href="https://windowdressers.org/frequently-asked-questions/">WindowDressers FAQ</a> or <a href="https://www.facebook.com/islesboroenergyhub/">contact Kizzi Barton</a> for more info.</p>
